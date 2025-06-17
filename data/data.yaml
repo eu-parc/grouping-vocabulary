@@ -1,5 +1,5 @@
 groupings:
-- id: Acrylamide
+- id: https://w3id.org/peh/GR-68165876b4
   unique_name: Acrylamide
   name: Acrylamide
   description: Acrylamide
@@ -8,7 +8,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Alcohol and drugs
+- id: https://w3id.org/peh/GR-27a32a6cb0
   unique_name: Alcohol and drugs
   name: Alcohol and drugs
   description: This category contains all questions related to alcohol use and own
@@ -18,7 +18,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal behavior
-- id: Alkaloid
+- id: https://w3id.org/peh/GR-838ce0801b
   unique_name: Alkaloid
   name: Alkaloid
   description: Alkaloid
@@ -27,7 +27,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Anilines and MOCA
+- id: https://w3id.org/peh/GR-76d34a0495
   unique_name: Anilines and MOCA
   name: Anilines and MOCA
   description: Anilines and MOCA
@@ -36,7 +36,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Animals
+- id: https://w3id.org/peh/GR-338b6e271a
   unique_name: Animals
   name: Animals
   description: 1st level group for Animals information
@@ -45,7 +45,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: Aprotic solvents
+- id: https://w3id.org/peh/GR-e1bb169c6f
   unique_name: Aprotic solvents
   name: Aprotic solvents
   description: Aprotic solvents
@@ -54,7 +54,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Asthma and allergy
+- id: https://w3id.org/peh/GR-59383ece93
   unique_name: Asthma and allergy
   name: Asthma and allergy
   description: "This category contains all questions related to problems with breathing,\
@@ -65,7 +65,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Baby feeding
+- id: https://w3id.org/peh/GR-2507ee50d0
   unique_name: Baby feeding
   name: Baby feeding
   description: 'This category contains all questions related to baby feeding because
@@ -76,7 +76,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: Bathing and showering
+- id: https://w3id.org/peh/GR-80b10d7a52
   unique_name: Bathing and showering
   name: Bathing and showering
   description: This category contains all questions related to bathing and showering.
@@ -86,7 +86,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal care and hygiene
-- id: Biological food
+- id: https://w3id.org/peh/GR-7873b6f250
   unique_name: Biological food
   name: Biological food
   description: This category contains all questions related to non-local bio-food
@@ -96,7 +96,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: Bisphenols
+- id: https://w3id.org/peh/GR-7077f9c6a0
   unique_name: Bisphenols
   name: Bisphenols
   description: Bisphenols
@@ -105,7 +105,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Blood Lipids and lipid transport proteins
+- id: https://w3id.org/peh/GR-2413b569bf
   unique_name: Blood Lipids and lipid transport proteins
   name: Blood Lipids and lipid transport proteins
   description: This category contains all measurements of blood lipids and lipid transport
@@ -115,7 +115,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Blood and blood composition
+- id: https://w3id.org/peh/GR-e3def8b983
   unique_name: Blood and blood composition
   name: Blood and blood composition
   description: This category contains all measurements of vitamins in human biological
@@ -125,7 +125,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Building characteristics
+- id: https://w3id.org/peh/GR-6e337eb8ea
   unique_name: Building characteristics
   name: Building characteristics
   description: This category contains all info on the outer shell of the house like
@@ -137,7 +137,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Housing
-- id: Cardiometabolic health and metabolic diseases
+- id: https://w3id.org/peh/GR-8d28995318
   unique_name: Cardiometabolic health and metabolic diseases
   name: Cardiometabolic health and metabolic diseases
   description: This category contains all measured health outcome in the group of
@@ -148,7 +148,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health outcome
-- id: Care products
+- id: https://w3id.org/peh/GR-a93711fec6
   unique_name: Care products
   name: Care products
   description: Care products
@@ -157,7 +157,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Cell ageing
+- id: https://w3id.org/peh/GR-dca8d6d4a8
   unique_name: Cell ageing
   name: Cell ageing
   description: 'This category contains all measurements related to cell aging in human
@@ -167,7 +167,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Cell growth and cancer markers
+- id: https://w3id.org/peh/GR-3ae5c18161
   unique_name: Cell growth and cancer markers
   name: Cell growth and cancer markers
   description: 'This category contains all measurements of cell growth and cancermarkers
@@ -177,7 +177,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Chicken
+- id: https://w3id.org/peh/GR-a9514f8884
   unique_name: Chicken
   name: Chicken
   description: This category contains all questions related to chicken. It can be
@@ -188,7 +188,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Animals
-- id: Child CLB data
+- id: https://w3id.org/peh/GR-0f5868e7bb
   unique_name: Child CLB data
   name: Child CLB data
   description: This category contains all questions related to puberty that are questioned
@@ -198,7 +198,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Puberty
-- id: 'Child at birth '
+- id: https://w3id.org/peh/GR-2ad6034173
   unique_name: 'Child at birth '
   name: 'Child at birth '
   description: This category contains all birth questions that relate to a specific
@@ -210,7 +210,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: Child development
+- id: https://w3id.org/peh/GR-d8003b419a
   unique_name: Child development
   name: Child development
   description: 1st level group for Child development information
@@ -219,7 +219,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Health
-- id: Child exposure
+- id: https://w3id.org/peh/GR-df567b7681
   unique_name: Child exposure
   name: Child exposure
   description: 'This category contains questions such as: does the child go to before
@@ -230,7 +230,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Child puberty
+- id: https://w3id.org/peh/GR-caa3bf636c
   unique_name: Child puberty
   name: Child puberty
   description: This category contains all questions on puberty that are not related
@@ -240,7 +240,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: Commuting
+- id: https://w3id.org/peh/GR-e044c0d03a
   unique_name: Commuting
   name: Commuting
   description: This category contains all questions related to the means of transport
@@ -250,7 +250,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General physical activity
-- id: Contact information
+- id: https://w3id.org/peh/GR-5e3d6d040d
   unique_name: Contact information
   name: Contact information
   description: 'This category contains all kinds of info that can be used in order
@@ -263,7 +263,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal information
-- id: DINCH
+- id: https://w3id.org/peh/GR-cac83ffadf
   unique_name: DINCH
   name: DINCH
   description: DINCH
@@ -272,7 +272,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Diisocyanates
+- id: https://w3id.org/peh/GR-b5a1da1679
   unique_name: Diisocyanates
   name: Diisocyanates
   description: Diisocyanates
@@ -281,7 +281,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Dioxins
+- id: https://w3id.org/peh/GR-ca2e654647
   unique_name: Dioxins
   name: Dioxins
   description: Dioxins
@@ -290,7 +290,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Domestic animals
+- id: https://w3id.org/peh/GR-59a2b5836a
   unique_name: Domestic animals
   name: Domestic animals
   description: This category contains all questions related to domestic animals like
@@ -301,7 +301,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Animals
-- id: 'Early life exposure '
+- id: https://w3id.org/peh/GR-8f9d338648
   unique_name: 'Early life exposure '
   name: 'Early life exposure '
   description: 'This category contains questions such as: does the child go to daycare,
@@ -311,7 +311,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Education and degree
+- id: https://w3id.org/peh/GR-8ae4f78e30
   unique_name: Education and degree
   name: Education and degree
   description: This category contains eductional info (current or in the past) and
@@ -321,14 +321,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Socio-economic status
-- id: Effect
+- id: https://w3id.org/peh/GR-a62d229107
   unique_name: Effect
   name: Effect
   description: Top-level group for Effect information
   label: Effect
   sort_order: 0
   abstract: true
-- id: Effect marker
+- id: https://w3id.org/peh/GR-bfaa5b388a
   unique_name: Effect marker
   name: Effect marker
   description: 1st level group for Effect marker information
@@ -338,7 +338,7 @@ groupings:
   parent_grouping_id_list:
   - Health
   - Effect
-- id: Environmental exposure
+- id: https://w3id.org/peh/GR-34cb29593b
   unique_name: Environmental exposure
   name: Environmental exposure
   description: 1st level group for Environmental exposure information
@@ -347,7 +347,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Environmental exposure due to agriculture
+- id: https://w3id.org/peh/GR-311128a9e0
   unique_name: Environmental exposure due to agriculture
   name: Environmental exposure due to agriculture
   description: 'This category contains information on yellow area : agriculture'
@@ -356,7 +356,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: 'Environmental exposure due to air pollution, noise pollution, odor nuisance '
+- id: https://w3id.org/peh/GR-9d634ca4ce
   unique_name: 'Environmental exposure due to air pollution, noise pollution, odor
     nuisance '
   name: 'Environmental exposure due to air pollution, noise pollution, odor nuisance '
@@ -368,7 +368,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: 'Environmental exposure due to build environment '
+- id: https://w3id.org/peh/GR-e83c15e74b
   unique_name: 'Environmental exposure due to build environment '
   name: 'Environmental exposure due to build environment '
   description: 'This category contains exposure info on grey area : build environment.
@@ -378,7 +378,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: Environmental exposure due to climate and changing climate
+- id: https://w3id.org/peh/GR-5291c72d33
   unique_name: Environmental exposure due to climate and changing climate
   name: Environmental exposure due to climate and changing climate
   description: This category contains climate and weather data. For the moment, it
@@ -388,7 +388,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: Environmental exposure due to green area
+- id: https://w3id.org/peh/GR-c9186eaada
   unique_name: Environmental exposure due to green area
   name: Environmental exposure due to green area
   description: This category contains information on exposure to green area
@@ -397,7 +397,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: Environmental exposure due to industry
+- id: https://w3id.org/peh/GR-2968bba112
   unique_name: Environmental exposure due to industry
   name: Environmental exposure due to industry
   description: 'This category contains exposure info on grey area : industry'
@@ -406,7 +406,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: 'Environmental exposure due to traffic and combustion '
+- id: https://w3id.org/peh/GR-02eb8f2acc
   unique_name: 'Environmental exposure due to traffic and combustion '
   name: 'Environmental exposure due to traffic and combustion '
   description: This category contains information on environmental exposure due to
@@ -421,7 +421,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: Environmental indoor exposure
+- id: https://w3id.org/peh/GR-0935a6db51
   unique_name: Environmental indoor exposure
   name: Environmental indoor exposure
   description: ??????Residence
@@ -430,7 +430,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Environmental exposure
-- id: Epigenetic markers
+- id: https://w3id.org/peh/GR-00187fb3ab
   unique_name: Epigenetic markers
   name: Epigenetic markers
   description: This category contains all measurements related to epigenetic markers
@@ -439,7 +439,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Essential elements
+- id: https://w3id.org/peh/GR-ef2fcf9175
   unique_name: Essential elements
   name: Essential elements
   description: This category contains all measurements of essential elements  in human
@@ -449,14 +449,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Exposure
+- id: https://w3id.org/peh/GR-df10da7c5d
   unique_name: Exposure
   name: Exposure
   description: Top-level group for Exposure information
   label: Exposure
   sort_order: 0
   abstract: true
-- id: Exposure during pregnancy
+- id: https://w3id.org/peh/GR-c0d2bb90e4
   unique_name: Exposure during pregnancy
   name: Exposure during pregnancy
   description: 'This category contains questions such as: Did your mother smoke during
@@ -466,7 +466,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Exposure marker
+- id: https://w3id.org/peh/GR-13e812a346
   unique_name: Exposure marker
   name: Exposure marker
   description: 1st level group for Exposure marker information
@@ -475,7 +475,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Family composition
+- id: https://w3id.org/peh/GR-6d274b2e32
   unique_name: Family composition
   name: Family composition
   description: 'This category contains the marital status and family composition:
@@ -485,7 +485,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Socio-economic status
-- id: Family history of disease
+- id: https://w3id.org/peh/GR-4434e91475
   unique_name: Family history of disease
   name: Family history of disease
   description: This category contains all questions about family history of disease
@@ -494,7 +494,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Fertility
+- id: https://w3id.org/peh/GR-c2ac98c862
   unique_name: Fertility
   name: Fertility
   description: This category contains all questions related to fertility, incl. infertility
@@ -504,7 +504,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Reproductive health
-- id: Flame retardants
+- id: https://w3id.org/peh/GR-992d3cf044
   unique_name: Flame retardants
   name: Flame retardants
   description: Flame retardants
@@ -513,7 +513,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Food supplements
+- id: https://w3id.org/peh/GR-86400ce248
   unique_name: Food supplements
   name: Food supplements
   description: This category contains food supplements (and thus no medication). This
@@ -523,7 +523,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: Food supplements during pregnancy
+- id: https://w3id.org/peh/GR-7b82e9c11b
   unique_name: Food supplements during pregnancy
   name: Food supplements during pregnancy
   description: This category contains info on food supplements during pregnancy
@@ -532,7 +532,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Furans
+- id: https://w3id.org/peh/GR-c161022657
   unique_name: Furans
   name: Furans
   description: Furans
@@ -541,7 +541,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: 'General child behavior '
+- id: https://w3id.org/peh/GR-bb2557e06e
   unique_name: 'General child behavior '
   name: 'General child behavior '
   description: This category contains all questions on general child behaviour. Things
@@ -552,7 +552,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: General food
+- id: https://w3id.org/peh/GR-f4bf0b8c8a
   unique_name: General food
   name: General food
   description: 1st level group for General food information
@@ -561,7 +561,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: General food consumption
+- id: https://w3id.org/peh/GR-2cb4fd3d8b
   unique_name: General food consumption
   name: General food consumption
   description: "This category contains all questions on general food consumption like\
@@ -575,7 +575,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General food
-- id: General food frequency
+- id: https://w3id.org/peh/GR-5c0c757b41
   unique_name: General food frequency
   name: General food frequency
   description: This category contains questions that indicate how much somebody eats
@@ -586,7 +586,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General food
-- id: General indoor environment
+- id: https://w3id.org/peh/GR-ea20519431
   unique_name: General indoor environment
   name: General indoor environment
   description: This category contains all indoor housing characteristics that can
@@ -600,7 +600,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: General medication and vaccination
+- id: https://w3id.org/peh/GR-d7d1ad921a
   unique_name: General medication and vaccination
   name: General medication and vaccination
   description: This category contains all questions related to medication and vaccination.
@@ -611,7 +611,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: General mental health
+- id: https://w3id.org/peh/GR-fd3d843f52
   unique_name: General mental health
   name: General mental health
   description: This category contains questions on mental health oa feeling score,
@@ -623,7 +623,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Mental health
-- id: General perception on exposure
+- id: https://w3id.org/peh/GR-0210ad3b78
   unique_name: General perception on exposure
   name: General perception on exposure
   description: This category contains questions on general environmental exposure
@@ -633,7 +633,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: General physical activity
+- id: https://w3id.org/peh/GR-68060310d8
   unique_name: General physical activity
   name: General physical activity
   description: 1st level group for General physical activity information
@@ -642,7 +642,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal behavior
-- id: 'General physical activity '
+- id: https://w3id.org/peh/GR-7d0e06ddd8
   unique_name: 'General physical activity '
   name: 'General physical activity '
   description: This category contains all questions on walking, working in the garden,
@@ -653,7 +653,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal behavior
-- id: General physical health
+- id: https://w3id.org/peh/GR-3b78b95de5
   unique_name: General physical health
   name: General physical health
   description: This category contains all questions on general health like sore throat,
@@ -665,7 +665,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: General property
+- id: https://w3id.org/peh/GR-369bbc0408
   unique_name: General property
   name: General property
   description: 1st level group for General property information
@@ -674,7 +674,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Property
-- id: General sample information
+- id: https://w3id.org/peh/GR-60be8fd3f6
   unique_name: General sample information
   name: General sample information
   description: This category contains all data relevant to the sampling and quality
@@ -685,7 +685,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Questionnaire and sample information
-- id: Genotoxicity
+- id: https://w3id.org/peh/GR-53cdf7eceb
   unique_name: Genotoxicity
   name: Genotoxicity
   description: This category contains all measurements of genotoxicity in human biological
@@ -695,7 +695,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Glycol ethers
+- id: https://w3id.org/peh/GR-b1aa44e57e
   unique_name: Glycol ethers
   name: Glycol ethers
   description: Glycol ethers
@@ -704,7 +704,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Ground and well water
+- id: https://w3id.org/peh/GR-4c24ea23c7
   unique_name: Ground and well water
   name: Ground and well water
   description: This category contains all questions on ground and well water and the
@@ -714,7 +714,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Outdoor environment
-- id: Hair care
+- id: https://w3id.org/peh/GR-24ae4c9f4f
   unique_name: Hair care
   name: Hair care
   description: 'This category contains all questions related to hair care: how often
@@ -724,7 +724,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal care and hygiene
-- id: Halogens
+- id: https://w3id.org/peh/GR-942fd6f6e8
   unique_name: Halogens
   name: Halogens
   description: Halogens
@@ -733,14 +733,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Health
+- id: https://w3id.org/peh/GR-605669cab9
   unique_name: Health
   name: Health
   description: Top-level group for Health information
   label: Health
   sort_order: 0
   abstract: true
-- id: Health data
+- id: https://w3id.org/peh/GR-6bb62a0954
   unique_name: Health data
   name: Health data
   description: 1st level group for Health data information
@@ -749,7 +749,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Health
-- id: Health outcome
+- id: https://w3id.org/peh/GR-80c40b7492
   unique_name: Health outcome
   name: Health outcome
   description: 1st level group for Health outcome information
@@ -758,7 +758,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Health
-- id: Herbicides
+- id: https://w3id.org/peh/GR-e23b103079
   unique_name: Herbicides
   name: Herbicides
   description: Herbicides
@@ -767,7 +767,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Hexamoll DINCH
+- id: https://w3id.org/peh/GR-e2a5dec30e
   unique_name: Hexamoll DINCH
   name: Hexamoll DINCH
   description: Hexamoll DINCH
@@ -776,7 +776,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Historical and prevalent chronic diseases or conditions
+- id: https://w3id.org/peh/GR-4b830fe5b5
   unique_name: Historical and prevalent chronic diseases or conditions
   name: Historical and prevalent chronic diseases or conditions
   description: This category contains questions on historical and prevalent chronic
@@ -786,7 +786,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Hormone use
+- id: https://w3id.org/peh/GR-9b1a0b3569
   unique_name: Hormone use
   name: Hormone use
   description: This category contains all questions on hormone use, incl. oral contraceptives,
@@ -796,7 +796,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Reproductive health
-- id: Housing
+- id: https://w3id.org/peh/GR-6214b425ac
   unique_name: Housing
   name: Housing
   description: 1st level group for Housing information
@@ -805,7 +805,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: Housing problems
+- id: https://w3id.org/peh/GR-4e1621a8a9
   unique_name: Housing problems
   name: Housing problems
   description: 'This category contains all kinds of questions related to problems
@@ -816,7 +816,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Housing
-- id: Indoor Energy, combustion behaviour and engines
+- id: https://w3id.org/peh/GR-edab7c3d8a
   unique_name: Indoor Energy, combustion behaviour and engines
   name: Indoor Energy, combustion behaviour and engines
   description: This category contains everything linked to EPC level of house, heating
@@ -827,7 +827,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Indoor environment
-- id: Indoor cleaning habits and products
+- id: https://w3id.org/peh/GR-cdf93fe2f1
   unique_name: Indoor cleaning habits and products
   name: Indoor cleaning habits and products
   description: This category contains all questions related to cleaning habits and
@@ -838,7 +838,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Indoor environment
-- id: Indoor environment
+- id: https://w3id.org/peh/GR-987e04d431
   unique_name: Indoor environment
   name: Indoor environment
   description: 1st level group for Indoor environment information
@@ -847,7 +847,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: Indoor ventilation
+- id: https://w3id.org/peh/GR-0874e28bdb
   unique_name: Indoor ventilation
   name: Indoor ventilation
   description: identiek aan' Housing - Ventilation systems' ???
@@ -856,7 +856,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Indoor environment
-- id: Inflammation and immunity
+- id: https://w3id.org/peh/GR-cf29dc5f14
   unique_name: Inflammation and immunity
   name: Inflammation and immunity
   description: 'This category contains all measured inflammation and immune parameters
@@ -866,7 +866,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Injury, hospitalisation and surgery
+- id: https://w3id.org/peh/GR-559f0cd4bf
   unique_name: Injury, hospitalisation and surgery
   name: Injury, hospitalisation and surgery
   description: 'This category contains all questions on hospitalisations, surgery,
@@ -876,7 +876,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Kidney function
+- id: https://w3id.org/peh/GR-33834903f8
   unique_name: Kidney function
   name: Kidney function
   description: This category contains all measurements of MOLECULAR AND CLINICAL kidney
@@ -886,7 +886,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Kindfiche
+- id: https://w3id.org/peh/GR-0ca1be759e
   unique_name: Kindfiche
   name: Kindfiche
   description: This category contains all measured health outcome at birth (from the
@@ -896,7 +896,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health outcome
-- id: Kitchen garden
+- id: https://w3id.org/peh/GR-0bb1df4e9b
   unique_name: Kitchen garden
   name: Kitchen garden
   description: This category contains all questions related to kitchen garden. It
@@ -910,7 +910,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Outdoor environment
-- id: Lab markers for cardiometabolic health and metabolic diseases
+- id: https://w3id.org/peh/GR-59f38bd8ad
   unique_name: Lab markers for cardiometabolic health and metabolic diseases
   name: Lab markers for cardiometabolic health and metabolic diseases
   description: This category contains all measured health outcome in the group of
@@ -921,7 +921,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Liver function
+- id: https://w3id.org/peh/GR-e8af4df90b
   unique_name: Liver function
   name: Liver function
   description: This category contains all measurements of liver function
@@ -930,7 +930,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Local and/or own chicken eggs
+- id: https://w3id.org/peh/GR-e693753ccd
   unique_name: Local and/or own chicken eggs
   name: Local and/or own chicken eggs
   description: This category contains all questions on egg consumption from local
@@ -941,7 +941,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Local food
-- id: 'Local and/or own food consumption and frequency '
+- id: https://w3id.org/peh/GR-6272f4a828
   unique_name: 'Local and/or own food consumption and frequency '
   name: 'Local and/or own food consumption and frequency '
   description: "This category contains all questions on local food consumption and\
@@ -956,7 +956,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: Local and/or own kitchen garden food
+- id: https://w3id.org/peh/GR-14e003031b
   unique_name: Local and/or own kitchen garden food
   name: Local and/or own kitchen garden food
   description: This category contains all questions on own grown food consumption.
@@ -966,7 +966,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Local food
-- id: Local food
+- id: https://w3id.org/peh/GR-fe39bb9245
   unique_name: Local food
   name: Local food
   description: 1st level group for Local food information
@@ -975,7 +975,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Nutricion and diet
-- id: Medication during pregnancy
+- id: https://w3id.org/peh/GR-dc31500d28
   unique_name: Medication during pregnancy
   name: Medication during pregnancy
   description: This category contains info on medication during pregnancy
@@ -984,7 +984,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Menstruation
+- id: https://w3id.org/peh/GR-b2c72bc4fb
   unique_name: Menstruation
   name: Menstruation
   description: This category contains all general questions related to menstruation
@@ -993,7 +993,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Reproductive health
-- id: Mental health
+- id: https://w3id.org/peh/GR-7bab96833d
   unique_name: Mental health
   name: Mental health
   description: 1st level group for Mental health information
@@ -1002,7 +1002,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health data
-- id: Metabolic hormones
+- id: https://w3id.org/peh/GR-44bf0535b4
   unique_name: Metabolic hormones
   name: Metabolic hormones
   description: This category contains all measurements of metabolic hormones in human
@@ -1012,7 +1012,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Metals
+- id: https://w3id.org/peh/GR-1f07be2e65
   unique_name: Metals
   name: Metals
   description: Metals
@@ -1021,7 +1021,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Musks
+- id: https://w3id.org/peh/GR-9d3c62efa8
   unique_name: Musks
   name: Musks
   description: Musks
@@ -1030,7 +1030,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Mycotoxins
+- id: https://w3id.org/peh/GR-2ca98ee0ed
   unique_name: Mycotoxins
   name: Mycotoxins
   description: Mycotoxins
@@ -1039,7 +1039,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Nail care
+- id: https://w3id.org/peh/GR-0845dec952
   unique_name: Nail care
   name: Nail care
   description: This category contains all questions related to nail care
@@ -1048,7 +1048,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal care and hygiene
-- id: Nationality, origin and language
+- id: https://w3id.org/peh/GR-a841fe1f14
   unique_name: Nationality, origin and language
   name: Nationality, origin and language
   description: This category contains all info related to country of birth, nationality
@@ -1058,7 +1058,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Socio-economic status
-- id: Neuro Computer tests
+- id: https://w3id.org/peh/GR-201b64e7f5
   unique_name: Neuro Computer tests
   name: Neuro Computer tests
   description: This category contains all computer test to asses neurocognition eg
@@ -1068,7 +1068,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro-cognition
-- id: Neuro child communication
+- id: https://w3id.org/peh/GR-e15602c48e
   unique_name: Neuro child communication
   name: Neuro child communication
   description: This category was created for 3xG because neuro was questionned in
@@ -1079,7 +1079,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro development
-- id: Neuro child fine motor skills
+- id: https://w3id.org/peh/GR-f71e21ba7c
   unique_name: Neuro child fine motor skills
   name: Neuro child fine motor skills
   description: This category was created for 3xG because neuro was questionned in
@@ -1090,7 +1090,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro development
-- id: Neuro child general
+- id: https://w3id.org/peh/GR-b6e206acf3
   unique_name: Neuro child general
   name: Neuro child general
   description: This category was created for 3xG because neuro was questionned in
@@ -1101,7 +1101,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: Neuro child gross motor skills
+- id: https://w3id.org/peh/GR-92e75f26ae
   unique_name: Neuro child gross motor skills
   name: Neuro child gross motor skills
   description: This category was created for 3xG because neuro was questionned in
@@ -1112,7 +1112,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro development
-- id: Neuro child personal-social
+- id: https://w3id.org/peh/GR-4a6cf2cc62
   unique_name: Neuro child personal-social
   name: Neuro child personal-social
   description: This category was created for 3xG because neuro was questionned in
@@ -1123,7 +1123,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro development
-- id: Neuro child problem solving
+- id: https://w3id.org/peh/GR-8fafb915e2
   unique_name: Neuro child problem solving
   name: Neuro child problem solving
   description: This category was created for 3xG because neuro was questionned in
@@ -1134,7 +1134,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro development
-- id: Neuro development
+- id: https://w3id.org/peh/GR-643f7eeb31
   unique_name: Neuro development
   name: Neuro development
   description: 1st level group for Neuro development information
@@ -1143,7 +1143,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: Neuro general
+- id: https://w3id.org/peh/GR-484b74a97c
   unique_name: Neuro general
   name: Neuro general
   description: This category contains all questions related to problems with neuro-cognition
@@ -1152,7 +1152,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Neuro-cognition
-- id: Neuro-cognition
+- id: https://w3id.org/peh/GR-9a46317451
   unique_name: Neuro-cognition
   name: Neuro-cognition
   description: 1st level group for Neuro-cognition information
@@ -1161,7 +1161,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health data
-- id: Nicotine
+- id: https://w3id.org/peh/GR-dfa7a51e61
   unique_name: Nicotine
   name: Nicotine
   description: This category contains all measurements related to nicotine
@@ -1170,7 +1170,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Nutricion and diet
+- id: https://w3id.org/peh/GR-95bc8ff099
   unique_name: Nutricion and diet
   name: Nutricion and diet
   description: 1st level group for Nutricion and diet information
@@ -1179,7 +1179,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Occupation and income
+- id: https://w3id.org/peh/GR-858ca4d2c7
   unique_name: Occupation and income
   name: Occupation and income
   description: This category contains all variables related to occupation and income
@@ -1188,7 +1188,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Socio-economic status
-- id: 'Occupational exposure '
+- id: https://w3id.org/peh/GR-36a7c544ce
   unique_name: 'Occupational exposure '
   name: 'Occupational exposure '
   description: This category is there for questions that are related only to occupational
@@ -1200,7 +1200,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Organochlorine compounds (OCs)
+- id: https://w3id.org/peh/GR-380d90ca91
   unique_name: Organochlorine compounds (OCs)
   name: Organochlorine compounds (OCs)
   description: Organochlorine compounds (OCs)
@@ -1209,7 +1209,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Outdoor environment
+- id: https://w3id.org/peh/GR-f7b6a94431
   unique_name: Outdoor environment
   name: Outdoor environment
   description: 1st level group for Outdoor environment information
@@ -1218,7 +1218,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: Outdoor general
+- id: https://w3id.org/peh/GR-4b2963b3f4
   unique_name: Outdoor general
   name: Outdoor general
   description: This category contains all questions related to terrace and garden
@@ -1231,7 +1231,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Outdoor environment
-- id: Parabens
+- id: https://w3id.org/peh/GR-657e02f8d3
   unique_name: Parabens
   name: Parabens
   description: Parabens
@@ -1240,7 +1240,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Passive smoking
+- id: https://w3id.org/peh/GR-03ba8a7a2d
   unique_name: Passive smoking
   name: Passive smoking
   description: This category contains all questions related to passive smoking or
@@ -1250,7 +1250,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure to smoking
-- id: Per-/poly-fluorinated compounds (PFASs)
+- id: https://w3id.org/peh/GR-eb9bde9374
   unique_name: Per-/poly-fluorinated compounds (PFASs)
   name: Per-/poly-fluorinated compounds (PFASs)
   description: Per-/poly-fluorinated compounds (PFASs)
@@ -1259,7 +1259,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Perception on exposure
+- id: https://w3id.org/peh/GR-36a74162b0
   unique_name: Perception on exposure
   name: Perception on exposure
   description: 1st level group for Perception on exposure information
@@ -1268,7 +1268,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Perception on exposure due to climate and changing climate
+- id: https://w3id.org/peh/GR-a3753268b4
   unique_name: Perception on exposure due to climate and changing climate
   name: Perception on exposure due to climate and changing climate
   description: This category contains questions related to climate and changing climate
@@ -1277,7 +1277,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure due to food '
+- id: https://w3id.org/peh/GR-7af2db5eec
   unique_name: 'Perception on exposure due to food '
   name: 'Perception on exposure due to food '
   description: 'This category contains questions on perception, concerns and opinions
@@ -1288,7 +1288,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure due to indoor environment '
+- id: https://w3id.org/peh/GR-5788fb4746
   unique_name: 'Perception on exposure due to indoor environment '
   name: 'Perception on exposure due to indoor environment '
   description: 'This category contains questions perception, concerns and opinions
@@ -1299,7 +1299,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to agriculture '
+- id: https://w3id.org/peh/GR-8662d4e102
   unique_name: 'Perception on exposure exposure due to agriculture '
   name: 'Perception on exposure exposure due to agriculture '
   description: This category is about your perception, concerns and opinions about
@@ -1309,8 +1309,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to air pollution, noise pollution, odor
-    nuisance '
+- id: https://w3id.org/peh/GR-51c485c74c
   unique_name: 'Perception on exposure exposure due to air pollution, noise pollution,
     odor nuisance '
   name: 'Perception on exposure exposure due to air pollution, noise pollution, odor
@@ -1323,7 +1322,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to build environment '
+- id: https://w3id.org/peh/GR-5a3e8db16f
   unique_name: 'Perception on exposure exposure due to build environment '
   name: 'Perception on exposure exposure due to build environment '
   description: This category is about your perception, concerns and opinions about
@@ -1333,7 +1332,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to green area '
+- id: https://w3id.org/peh/GR-73e22266fe
   unique_name: 'Perception on exposure exposure due to green area '
   name: 'Perception on exposure exposure due to green area '
   description: This category is about questions on your perception of how important
@@ -1346,7 +1345,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to industry '
+- id: https://w3id.org/peh/GR-7102cde717
   unique_name: 'Perception on exposure exposure due to industry '
   name: 'Perception on exposure exposure due to industry '
   description: This category is about your perception, concerns and opinions about
@@ -1357,7 +1356,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: 'Perception on exposure exposure due to traffic and combustion '
+- id: https://w3id.org/peh/GR-1391f782bc
   unique_name: 'Perception on exposure exposure due to traffic and combustion '
   name: 'Perception on exposure exposure due to traffic and combustion '
   description: This category is about your perception, concerns and opinions about
@@ -1367,7 +1366,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Perception on exposure
-- id: Persistent Organic Pollutants (POPs)
+- id: https://w3id.org/peh/GR-a9ad5b6324
   unique_name: Persistent Organic Pollutants (POPs)
   name: Persistent Organic Pollutants (POPs)
   description: Persistent Organic Pollutants (POPs)
@@ -1376,14 +1375,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Personal
+- id: https://w3id.org/peh/GR-184daff620
   unique_name: Personal
   name: Personal
   description: Top-level group for Personal information
   label: Personal
   sort_order: 0
   abstract: true
-- id: Personal behavior
+- id: https://w3id.org/peh/GR-356af2f9e6
   unique_name: Personal behavior
   name: Personal behavior
   description: 1st level group for Personal behavior information
@@ -1392,7 +1391,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Personal care and hygiene
+- id: https://w3id.org/peh/GR-2695e59bf6
   unique_name: Personal care and hygiene
   name: Personal care and hygiene
   description: 1st level group for Personal care and hygiene information
@@ -1401,7 +1400,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Personal exposure
+- id: https://w3id.org/peh/GR-863ac4affa
   unique_name: Personal exposure
   name: Personal exposure
   description: 1st level group for Personal exposure information
@@ -1410,7 +1409,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: 'Personal exposure to products '
+- id: https://w3id.org/peh/GR-f07dc5f70f
   unique_name: 'Personal exposure to products '
   name: 'Personal exposure to products '
   description: This category is specific for products specific for the person (also
@@ -1424,7 +1423,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Personal exposure to smoking
+- id: https://w3id.org/peh/GR-077f854251
   unique_name: Personal exposure to smoking
   name: Personal exposure to smoking
   description: 1st level group for Personal exposure to smoking information
@@ -1433,7 +1432,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal exposure
-- id: Personal information
+- id: https://w3id.org/peh/GR-2433db5a32
   unique_name: Personal information
   name: Personal information
   description: 1st level group for Personal information information
@@ -1442,7 +1441,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Personal
-- id: Personal parameters
+- id: https://w3id.org/peh/GR-fde83c2922
   unique_name: Personal parameters
   name: Personal parameters
   description: 'This category contains all kinds of personal info that can be relevant
@@ -1454,7 +1453,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal information
-- id: Pesticides
+- id: https://w3id.org/peh/GR-1e6810eaf1
   unique_name: Pesticides
   name: Pesticides
   description: Pesticides
@@ -1463,7 +1462,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Pesticides (carbamate)
+- id: https://w3id.org/peh/GR-c17b129b98
   unique_name: Pesticides (carbamate)
   name: Pesticides (carbamate)
   description: Pesticides (carbamate)
@@ -1472,7 +1471,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Pesticides (pyrethroids)
+- id: https://w3id.org/peh/GR-a2a74eb34a
   unique_name: Pesticides (pyrethroids)
   name: Pesticides (pyrethroids)
   description: Pesticides and pyrethroids
@@ -1481,7 +1480,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Phthalates
+- id: https://w3id.org/peh/GR-92dcfaba61
   unique_name: Phthalates
   name: Phthalates
   description: Phthalates  This category contains measurements of phtalates in different
@@ -1491,7 +1490,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Physical health
+- id: https://w3id.org/peh/GR-21f39d861d
   unique_name: Physical health
   name: Physical health
   description: 1st level group for Physical health information
@@ -1500,7 +1499,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health data
-- id: Physical health during birth
+- id: https://w3id.org/peh/GR-df3c7e4e62
   unique_name: Physical health during birth
   name: Physical health during birth
   description: This category contains special questions on health that are only posed
@@ -1510,7 +1509,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Physical health during breast feeding
+- id: https://w3id.org/peh/GR-d615ebc916
   unique_name: Physical health during breast feeding
   name: Physical health during breast feeding
   description: This category contains special questions on health related to health
@@ -1520,7 +1519,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Physical health during pregnancy
+- id: https://w3id.org/peh/GR-51ea0e8b5a
   unique_name: Physical health during pregnancy
   name: Physical health during pregnancy
   description: This category contains special questions on health that are only posed
@@ -1530,7 +1529,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Physical health
-- id: Polycyclic Aromatic Hydrocarbons (PAHs)
+- id: https://w3id.org/peh/GR-c65dfb227c
   unique_name: Polycyclic Aromatic Hydrocarbons (PAHs)
   name: Polycyclic Aromatic Hydrocarbons (PAHs)
   description: Polycyclic Aromatic Hydrocarbons (PAHs)
@@ -1539,14 +1538,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Practical
+- id: https://w3id.org/peh/GR-bba95533b6
   unique_name: Practical
   name: Practical
   description: Top-level group for Practical information
   label: Practical
   sort_order: 0
   abstract: true
-- id: Pregnancy
+- id: https://w3id.org/peh/GR-0b1e9b6d66
   unique_name: Pregnancy
   name: Pregnancy
   description: This category contains all general questions on pregnancy, not related
@@ -1556,7 +1555,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Reproductive health
-- id: Products on skin
+- id: https://w3id.org/peh/GR-b36a7e1919
   unique_name: Products on skin
   name: Products on skin
   description: This category contains all questions related to care products, make-up,
@@ -1567,14 +1566,14 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal care and hygiene
-- id: Property
+- id: https://w3id.org/peh/GR-5ad234cb2c
   unique_name: Property
   name: Property
   description: Top-level group for Property information
   label: Property
   sort_order: 0
   abstract: true
-- id: Property of blood
+- id: https://w3id.org/peh/GR-ea6310a2df
   unique_name: Property of blood
   name: Property of blood
   description: Property of blood
@@ -1583,7 +1582,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General property
-- id: Property of soil
+- id: https://w3id.org/peh/GR-a6331f608c
   unique_name: Property of soil
   name: Property of soil
   description: Property of soil
@@ -1592,7 +1591,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General property
-- id: Property of urine
+- id: https://w3id.org/peh/GR-38ba7d0f5d
   unique_name: Property of urine
   name: Property of urine
   description: Property of urine
@@ -1601,7 +1600,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General property
-- id: Puberty
+- id: https://w3id.org/peh/GR-2ea3776e70
   unique_name: Puberty
   name: Puberty
   description: 1st level group for Puberty information
@@ -1610,7 +1609,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Child development
-- id: Questionnaire and sample information
+- id: https://w3id.org/peh/GR-5c0a7d900f
   unique_name: Questionnaire and sample information
   name: Questionnaire and sample information
   description: 1st level group for Questionnaire and sample information information
@@ -1619,7 +1618,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Practical
-- id: Questionnaire information
+- id: https://w3id.org/peh/GR-70b45da5ef
   unique_name: Questionnaire information
   name: Questionnaire information
   description: This category contains variables like the date of questionnaire sending,
@@ -1630,7 +1629,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Questionnaire and sample information
-- id: Recent illness or medication information
+- id: https://w3id.org/peh/GR-ad09b801bc
   unique_name: Recent illness or medication information
   name: Recent illness or medication information
   description: This category contains recent illness or medication information relevant
@@ -1640,7 +1639,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Recent personal exposure
-- id: Recent nutricion information
+- id: https://w3id.org/peh/GR-55721ed87e
   unique_name: Recent nutricion information
   name: Recent nutricion information
   description: This category contains recent nutrition information relevant for recent
@@ -1650,7 +1649,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Recent personal exposure
-- id: Recent personal exposure
+- id: https://w3id.org/peh/GR-a7a6adf90d
   unique_name: Recent personal exposure
   name: Recent personal exposure
   description: 1st level group for Recent personal exposure information
@@ -1660,7 +1659,7 @@ groupings:
   parent_grouping_id_list:
   - Recent personal exposure
   - Exposure
-- id: Regional characteristics
+- id: https://w3id.org/peh/GR-c76c9a15ef
   unique_name: Regional characteristics
   name: Regional characteristics
   description: This category contains questions including current and historical adress,
@@ -1672,7 +1671,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Residence
-- id: Reproductive and metabolic health outcomes
+- id: https://w3id.org/peh/GR-9669099652
   unique_name: Reproductive and metabolic health outcomes
   name: Reproductive and metabolic health outcomes
   description: This category contains all measurements related to reproductive and
@@ -1682,7 +1681,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Reproductive breast feeding
+- id: https://w3id.org/peh/GR-3f8f7641f8
   unique_name: Reproductive breast feeding
   name: Reproductive breast feeding
   description: This category contains all general questions on breast feeding not
@@ -1692,7 +1691,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Reproductive health
-- id: Reproductive health
+- id: https://w3id.org/peh/GR-b948a35381
   unique_name: Reproductive health
   name: Reproductive health
   description: 1st level group for Reproductive health information
@@ -1701,7 +1700,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Health data
-- id: Residence
+- id: https://w3id.org/peh/GR-6804f318fb
   unique_name: Residence
   name: Residence
   description: 1st level group for Residence information
@@ -1710,7 +1709,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Sample information
+- id: https://w3id.org/peh/GR-d61f81dd29
   unique_name: Sample information
   name: Sample information
   description: 1st level group for Sample information information
@@ -1719,7 +1718,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Questionnaire and sample information
-- id: Sample information on blood sampling
+- id: https://w3id.org/peh/GR-7080c53d29
   unique_name: Sample information on blood sampling
   name: Sample information on blood sampling
   description: This category contains all data relevant to the blood sampling collection,
@@ -1729,7 +1728,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: Sample information on cordblood collection
+- id: https://w3id.org/peh/GR-93790be6c6
   unique_name: Sample information on cordblood collection
   name: Sample information on cordblood collection
   description: This category contains all data relevant to the cordblood  collection,
@@ -1739,7 +1738,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: Sample information on hair collection
+- id: https://w3id.org/peh/GR-ec9d2ad286
   unique_name: Sample information on hair collection
   name: Sample information on hair collection
   description: This category contains all sampling information relevant to the quality
@@ -1749,7 +1748,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: Sample information on mother milk collection
+- id: https://w3id.org/peh/GR-a29ccb594f
   unique_name: Sample information on mother milk collection
   name: Sample information on mother milk collection
   description: This category contains all sampling information on mother milk collection
@@ -1758,7 +1757,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: Sample information on urine collection
+- id: https://w3id.org/peh/GR-5c9a576646
   unique_name: Sample information on urine collection
   name: Sample information on urine collection
   description: This category contains all sampling information related to the urine
@@ -1769,7 +1768,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: Sedentary behaviour
+- id: https://w3id.org/peh/GR-3be4bd87ed
   unique_name: Sedentary behaviour
   name: Sedentary behaviour
   description: Sedentary behaviour
@@ -1778,7 +1777,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - General physical activity
-- id: Sleeping habits and problems
+- id: https://w3id.org/peh/GR-6634ebde61
   unique_name: Sleeping habits and problems
   name: Sleeping habits and problems
   description: This category contains questions on sleeping habits and problems
@@ -1787,7 +1786,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Mental health
-- id: Smoking
+- id: https://w3id.org/peh/GR-759f43093f
   unique_name: Smoking
   name: Smoking
   description: This category contains all questions related to active smoking now
@@ -1797,7 +1796,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal behavior
-- id: Socio-economic status
+- id: https://w3id.org/peh/GR-2ea8e050ad
   unique_name: Socio-economic status
   name: Socio-economic status
   description: 1st level group for Socio-economic status information
@@ -1806,7 +1805,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Exposure
-- id: Steroid/Sex hormones
+- id: https://w3id.org/peh/GR-a35f7f48c3
   unique_name: Steroid/Sex hormones
   name: Steroid/Sex hormones
   description: This category contains all measurements of steroids/sex hormones in
@@ -1816,7 +1815,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Stress hormones
+- id: https://w3id.org/peh/GR-3d4f94d1f8
   unique_name: Stress hormones
   name: Stress hormones
   description: This category contains all measurements of stress hormones in human
@@ -1826,7 +1825,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Stress perception
+- id: https://w3id.org/peh/GR-a459f90e63
   unique_name: Stress perception
   name: Stress perception
   description: This category contains questions on stress
@@ -1835,7 +1834,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Mental health
-- id: Stress perception during pregnancy
+- id: https://w3id.org/peh/GR-0d004972e6
   unique_name: Stress perception during pregnancy
   name: Stress perception during pregnancy
   description: This category contains questions on stress during pregnancy
@@ -1844,7 +1843,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Mental health
-- id: Study agreement
+- id: https://w3id.org/peh/GR-28433488ff
   unique_name: Study agreement
   name: Study agreement
   description: This category contains info on study agreement
@@ -1853,7 +1852,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Study information
-- id: Study design
+- id: https://w3id.org/peh/GR-135b789752
   unique_name: Study design
   name: Study design
   description: 1st level group for Study design information
@@ -1863,7 +1862,7 @@ groupings:
   parent_grouping_id_list:
   - Practical
   - Study design
-- id: Study information
+- id: https://w3id.org/peh/GR-ba7f3e58a8
   unique_name: Study information
   name: Study information
   description: 1st level group for Study information information
@@ -1872,7 +1871,7 @@ groupings:
   abstract: true
   parent_grouping_id_list:
   - Practical
-- id: Thyroid hormones
+- id: https://w3id.org/peh/GR-1005304604
   unique_name: Thyroid hormones
   name: Thyroid hormones
   description: This category contains all measurements of thyroid hormones in human
@@ -1882,7 +1881,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Tooth care
+- id: https://w3id.org/peh/GR-f7992bb6cb
   unique_name: Tooth care
   name: Tooth care
   description: This category contains all questions related to tooth care, dental
@@ -1892,7 +1891,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Personal care and hygiene
-- id: Triclosan
+- id: https://w3id.org/peh/GR-a7d5ef83e7
   unique_name: Triclosan
   name: Triclosan
   description: Triclosan
@@ -1901,7 +1900,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: UV-filters (benzophenones)
+- id: https://w3id.org/peh/GR-54a0d62f71
   unique_name: UV-filters (benzophenones)
   name: UV-filters (benzophenones)
   description: UV-filters (benzophenones)
@@ -1910,7 +1909,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: UV-screens
+- id: https://w3id.org/peh/GR-a97de2b004
   unique_name: UV-screens
   name: UV-screens
   description: UV-screens
@@ -1919,7 +1918,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Urinary dilution
+- id: https://w3id.org/peh/GR-abce00b701
   unique_name: Urinary dilution
   name: Urinary dilution
   description: This category contains all measurements of urinary dilution eg creatinine,
@@ -1929,7 +1928,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Ventilation systems
+- id: https://w3id.org/peh/GR-50b0a35bce
   unique_name: Ventilation systems
   name: Ventilation systems
   description: This category contains all questions related to ventilation systems
@@ -1939,7 +1938,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Housing
-- id: Vitamins
+- id: https://w3id.org/peh/GR-cf51badbc1
   unique_name: Vitamins
   name: Vitamins
   description: This category contains all measurements of vitamins in human biological
@@ -1949,7 +1948,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Effect marker
-- id: Volatile Organic Compounds (VOCs)
+- id: https://w3id.org/peh/GR-0af6168214
   unique_name: Volatile Organic Compounds (VOCs)
   name: Volatile Organic Compounds (VOCs)
   description: Volatile Organic Compounds (VOCs)
@@ -1958,7 +1957,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: Volatile anaesthetics
+- id: https://w3id.org/peh/GR-061d63c521
   unique_name: Volatile anaesthetics
   name: Volatile anaesthetics
   description: Volatile anaesthetics
@@ -1967,7 +1966,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Exposure marker
-- id: characteristics of non human samples
+- id: https://w3id.org/peh/GR-21311a1968
   unique_name: characteristics of non human samples
   name: characteristics of non human samples
   description: The sampletypes in which we measure can also have properties that are
@@ -1978,7 +1977,7 @@ groupings:
   abstract: false
   parent_grouping_id_list:
   - Sample information
-- id: cytokines
+- id: https://w3id.org/peh/GR-62ccc169b8
   unique_name: cytokines
   name: cytokines
   description: This category contains all measurements related to cytokines
