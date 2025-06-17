@@ -1,0 +1,1989 @@
+groupings:
+- id: Acrylamide
+  unique_name: Acrylamide
+  name: Acrylamide
+  description: Acrylamide
+  label: Acrylamide
+  sort_order: 10000
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Alcohol and drugs
+  unique_name: Alcohol and drugs
+  name: Alcohol and drugs
+  description: This category contains all questions related to alcohol use and own
+    recreational drug use
+  label: Alcohol and drugs
+  sort_order: 4
+  abstract: false
+  parent_grouping_id_list:
+  - Personal behavior
+- id: Alkaloid
+  unique_name: Alkaloid
+  name: Alkaloid
+  description: Alkaloid
+  label: Alkaloid
+  sort_order: 10002
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Anilines and MOCA
+  unique_name: Anilines and MOCA
+  name: Anilines and MOCA
+  description: Anilines and MOCA
+  label: Anilines and MOCA
+  sort_order: 1007
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Animals
+  unique_name: Animals
+  name: Animals
+  description: 1st level group for Animals information
+  label: Animals
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: Aprotic solvents
+  unique_name: Aprotic solvents
+  name: Aprotic solvents
+  description: Aprotic solvents
+  label: Aprotic solvents
+  sort_order: 1010
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Asthma and allergy
+  unique_name: Asthma and allergy
+  name: Asthma and allergy
+  description: "This category contains all questions related to problems with breathing,\
+    \ allergy and ashtma. It contains questions on the disease and medication specific\
+    \ for the disease ook longfunctietesten??\r\n"
+  label: Asthma and allergy
+  sort_order: 451
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Baby feeding
+  unique_name: Baby feeding
+  name: Baby feeding
+  description: 'This category contains all questions related to baby feeding because
+    it is very specific: Questions on how much breast milk, bottle feeding, names
+    of brands for bottle feeding, etc.'
+  label: Baby feeding
+  sort_order: 47
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: Bathing and showering
+  unique_name: Bathing and showering
+  name: Bathing and showering
+  description: This category contains all questions related to bathing and showering.
+    Using soap and other products, etc.
+  label: Bathing and showering
+  sort_order: 55
+  abstract: false
+  parent_grouping_id_list:
+  - Personal care and hygiene
+- id: Biological food
+  unique_name: Biological food
+  name: Biological food
+  description: This category contains all questions related to non-local bio-food
+    and frequency of eating local and non-local bio-food
+  label: Biological food
+  sort_order: 45
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: Bisphenols
+  unique_name: Bisphenols
+  name: Bisphenols
+  description: Bisphenols
+  label: Bisphenols
+  sort_order: 1005
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Blood Lipids and lipid transport proteins
+  unique_name: Blood Lipids and lipid transport proteins
+  name: Blood Lipids and lipid transport proteins
+  description: This category contains all measurements of blood lipids and lipid transport
+    proteins in blood.
+  label: Blood Lipids and lipid transport proteins
+  sort_order: 2006
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Blood and blood composition
+  unique_name: Blood and blood composition
+  name: Blood and blood composition
+  description: This category contains all measurements of vitamins in human biological
+    material.
+  label: Blood and blood composition
+  sort_order: 2007
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Building characteristics
+  unique_name: Building characteristics
+  name: Building characteristics
+  description: This category contains all info on the outer shell of the house like
+    materials used, renovations done,etc. All things that are not changing even if
+    the house would be sold and new owners come in. It also contains the info if it
+    is an appartment or a house, whether it contains lead tubes, etc.
+  label: Building characteristics
+  sort_order: 21
+  abstract: false
+  parent_grouping_id_list:
+  - Housing
+- id: Cardiometabolic health and metabolic diseases
+  unique_name: Cardiometabolic health and metabolic diseases
+  name: Cardiometabolic health and metabolic diseases
+  description: This category contains all measured health outcome in the group of
+    cardiometabolic parameters (height, weight and BMI, blood pressure) but not metabolic
+    hormones and questions on cardiovascular health and metabolic health.
+  label: Cardiometabolic health and metabolic diseases
+  sort_order: 420
+  abstract: false
+  parent_grouping_id_list:
+  - Health outcome
+- id: Care products
+  unique_name: Care products
+  name: Care products
+  description: Care products
+  label: Care products
+  sort_order: 10004
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Cell ageing
+  unique_name: Cell ageing
+  name: Cell ageing
+  description: 'This category contains all measurements related to cell aging in human
+    biological material. '
+  label: Cell ageing
+  sort_order: 2016
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Cell growth and cancer markers
+  unique_name: Cell growth and cancer markers
+  name: Cell growth and cancer markers
+  description: 'This category contains all measurements of cell growth and cancermarkers
+    in human biological material. '
+  label: Cell growth and cancer markers
+  sort_order: 2015
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Chicken
+  unique_name: Chicken
+  name: Chicken
+  description: This category contains all questions related to chicken. It can be
+    about the size of the chicken run, how much of it is grass or soil, on what the
+    chickens eat, on the age of the chickens, etc.
+  label: Chicken
+  sort_order: 32
+  abstract: false
+  parent_grouping_id_list:
+  - Animals
+- id: Child CLB data
+  unique_name: Child CLB data
+  name: Child CLB data
+  description: This category contains all questions related to puberty that are questioned
+    by CLB
+  label: Child CLB data
+  sort_order: 609
+  abstract: false
+  parent_grouping_id_list:
+  - Puberty
+- id: 'Child at birth '
+  unique_name: 'Child at birth '
+  name: 'Child at birth '
+  description: This category contains all birth questions that relate to a specific
+    child that is also part of the study. For example, all questions from the "kindfiche"
+    that are not measurements about the child will belong to this category (except
+    for measurements that will belong to clinical data   Health outcome).
+  label: 'Child at birth '
+  sort_order: 600
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: Child development
+  unique_name: Child development
+  name: Child development
+  description: 1st level group for Child development information
+  label: Child development
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Health
+- id: Child exposure
+  unique_name: Child exposure
+  name: Child exposure
+  description: 'This category contains questions such as: does the child go to before
+    and after school care or to the grandparents? Does the child frequent a swimming
+    pool?'
+  label: Child exposure
+  sort_order: 61
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Child puberty
+  unique_name: Child puberty
+  name: Child puberty
+  description: This category contains all questions on puberty that are not related
+    to CLB data. Note that menstration is also a separate category
+  label: Child puberty
+  sort_order: 608
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: Commuting
+  unique_name: Commuting
+  name: Commuting
+  description: This category contains all questions related to the means of transport
+    during commuting (to work or school) and the time spent on commuting
+  label: Commuting
+  sort_order: 51
+  abstract: false
+  parent_grouping_id_list:
+  - General physical activity
+- id: Contact information
+  unique_name: Contact information
+  name: Contact information
+  description: 'This category contains all kinds of info that can be used in order
+    to contact participants: name, telephone numbers, email. Due to GDPR reasons,
+    only the questions will be available in the database. Note that current and previous
+    addresses and geo information are contained in the category region (if available
+    due to GDPR)'
+  label: Contact information
+  sort_order: 3
+  abstract: false
+  parent_grouping_id_list:
+  - Personal information
+- id: DINCH
+  unique_name: DINCH
+  name: DINCH
+  description: DINCH
+  label: DINCH
+  sort_order: 1002
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Diisocyanates
+  unique_name: Diisocyanates
+  name: Diisocyanates
+  description: Diisocyanates
+  label: Diisocyanates
+  sort_order: 1011
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Dioxins
+  unique_name: Dioxins
+  name: Dioxins
+  description: Dioxins
+  label: Dioxins
+  sort_order: 3002
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Domestic animals
+  unique_name: Domestic animals
+  name: Domestic animals
+  description: This category contains all questions related to domestic animals like
+    cats and dogs and other animals (even farm animals in house or garden). Note that
+    we have a special category for chickens as they are very much questionned
+  label: Domestic animals
+  sort_order: 31
+  abstract: false
+  parent_grouping_id_list:
+  - Animals
+- id: 'Early life exposure '
+  unique_name: 'Early life exposure '
+  name: 'Early life exposure '
+  description: 'This category contains questions such as: does the child go to daycare,
+    to the creche, or to the grandparents? Does the child frequent a swimming pool?'
+  label: 'Early life exposure '
+  sort_order: 60
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Education and degree
+  unique_name: Education and degree
+  name: Education and degree
+  description: This category contains eductional info (current or in the past) and
+    degree of education
+  label: Education and degree
+  sort_order: 12
+  abstract: false
+  parent_grouping_id_list:
+  - Socio-economic status
+- id: Effect
+  unique_name: Effect
+  name: Effect
+  description: Top-level group for Effect information
+  label: Effect
+  sort_order: 0
+  abstract: true
+- id: Effect marker
+  unique_name: Effect marker
+  name: Effect marker
+  description: 1st level group for Effect marker information
+  label: Effect marker
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Health
+  - Effect
+- id: Environmental exposure
+  unique_name: Environmental exposure
+  name: Environmental exposure
+  description: 1st level group for Environmental exposure information
+  label: Environmental exposure
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Environmental exposure due to agriculture
+  unique_name: Environmental exposure due to agriculture
+  name: Environmental exposure due to agriculture
+  description: 'This category contains information on yellow area : agriculture'
+  label: Environmental exposure due to agriculture
+  sort_order: 203
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: 'Environmental exposure due to air pollution, noise pollution, odor nuisance '
+  unique_name: 'Environmental exposure due to air pollution, noise pollution, odor
+    nuisance '
+  name: 'Environmental exposure due to air pollution, noise pollution, odor nuisance '
+  description: This category contains information on environmental exposure due to
+    air pollution, noise pollution, odor nuisance. But not related to traffic since
+    that has its own category
+  label: 'Environmental exposure due to air pollution, noise pollution, odor nuisance '
+  sort_order: 206
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: 'Environmental exposure due to build environment '
+  unique_name: 'Environmental exposure due to build environment '
+  name: 'Environmental exposure due to build environment '
+  description: 'This category contains exposure info on grey area : build environment.
+    This contains for example the density of buildings (lintbebouwing, kernbebouwing)'
+  label: 'Environmental exposure due to build environment '
+  sort_order: 205
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: Environmental exposure due to climate and changing climate
+  unique_name: Environmental exposure due to climate and changing climate
+  name: Environmental exposure due to climate and changing climate
+  description: This category contains climate and weather data. For the moment, it
+    is the Temperature, sunflux from KMI, pollen data van Sciensano
+  label: Environmental exposure due to climate and changing climate
+  sort_order: 208
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: Environmental exposure due to green area
+  unique_name: Environmental exposure due to green area
+  name: Environmental exposure due to green area
+  description: This category contains information on exposure to green area
+  label: Environmental exposure due to green area
+  sort_order: 207
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: Environmental exposure due to industry
+  unique_name: Environmental exposure due to industry
+  name: Environmental exposure due to industry
+  description: 'This category contains exposure info on grey area : industry'
+  label: Environmental exposure due to industry
+  sort_order: 204
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: 'Environmental exposure due to traffic and combustion '
+  unique_name: 'Environmental exposure due to traffic and combustion '
+  name: 'Environmental exposure due to traffic and combustion '
+  description: This category contains information on environmental exposure due to
+    traffic in special. Exposure to traffic, busy roads, traffic lights, NO2, PM,
+    BC, ozon concentrations concentrations. benzinestation (zowel vragen in vragenlijst
+    van bvb hoever woon je van een drukke weg of een benzinestation als metingen die
+    we extern verkregen hebben). In 3xG there is a indoor questionnaire that asks
+    questions on effects on indoor air quality related to big traffic roads or fuel
+    stations in the neighbourhood. This will also be categorised here.
+  label: 'Environmental exposure due to traffic and combustion '
+  sort_order: 202
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: Environmental indoor exposure
+  unique_name: Environmental indoor exposure
+  name: Environmental indoor exposure
+  description: ??????Residence
+  label: Environmental indoor exposure
+  sort_order: 201
+  abstract: false
+  parent_grouping_id_list:
+  - Environmental exposure
+- id: Epigenetic markers
+  unique_name: Epigenetic markers
+  name: Epigenetic markers
+  description: This category contains all measurements related to epigenetic markers
+  label: Epigenetic markers
+  sort_order: 2019
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Essential elements
+  unique_name: Essential elements
+  name: Essential elements
+  description: This category contains all measurements of essential elements  in human
+    biological material.
+  label: Essential elements
+  sort_order: 2002
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Exposure
+  unique_name: Exposure
+  name: Exposure
+  description: Top-level group for Exposure information
+  label: Exposure
+  sort_order: 0
+  abstract: true
+- id: Exposure during pregnancy
+  unique_name: Exposure during pregnancy
+  name: Exposure during pregnancy
+  description: 'This category contains questions such as: Did your mother smoke during
+    pregnancy. Also age of the mother at birth???'
+  label: Exposure during pregnancy
+  sort_order: 59
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Exposure marker
+  unique_name: Exposure marker
+  name: Exposure marker
+  description: 1st level group for Exposure marker information
+  label: Exposure marker
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Family composition
+  unique_name: Family composition
+  name: Family composition
+  description: 'This category contains the marital status and family composition:
+    How many family members are there, how many live in the house, how many children'
+  label: Family composition
+  sort_order: 11
+  abstract: false
+  parent_grouping_id_list:
+  - Socio-economic status
+- id: Family history of disease
+  unique_name: Family history of disease
+  name: Family history of disease
+  description: This category contains all questions about family history of disease
+  label: Family history of disease
+  sort_order: 458
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Fertility
+  unique_name: Fertility
+  name: Fertility
+  description: This category contains all questions related to fertility, incl. infertility
+    treatments, time to pregnancy
+  label: Fertility
+  sort_order: 502
+  abstract: false
+  parent_grouping_id_list:
+  - Reproductive health
+- id: Flame retardants
+  unique_name: Flame retardants
+  name: Flame retardants
+  description: Flame retardants
+  label: Flame retardants
+  sort_order: 1004
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Food supplements
+  unique_name: Food supplements
+  name: Food supplements
+  description: This category contains food supplements (and thus no medication). This
+    can by iron, folic acid vitamin D, etc.
+  label: Food supplements
+  sort_order: 46
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: Food supplements during pregnancy
+  unique_name: Food supplements during pregnancy
+  name: Food supplements during pregnancy
+  description: This category contains info on food supplements during pregnancy
+  label: Food supplements during pregnancy
+  sort_order: 472
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Furans
+  unique_name: Furans
+  name: Furans
+  description: Furans
+  label: Furans
+  sort_order: 3000
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: 'General child behavior '
+  unique_name: 'General child behavior '
+  name: 'General child behavior '
+  description: This category contains all questions on general child behaviour. Things
+    like is your child often angry, sad, happy, mean, does he take into account feelings
+    of others, etc.
+  label: 'General child behavior '
+  sort_order: 601
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: General food
+  unique_name: General food
+  name: General food
+  description: 1st level group for General food information
+  label: General food
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: General food consumption
+  unique_name: General food consumption
+  name: General food consumption
+  description: "This category contains all questions on general food consumption like\
+    \ basic diet (vegetarian, gluten free,etc.) but also like if you use fresh butter\
+    \ or margarine or nothing on your bread. This category contains the \"facts\"\
+    , not the \"feelings or perceptions on food\". That is another category! Note\
+    \ that questions on general food frequency are also contained in a separate category\r\
+    \n"
+  label: General food consumption
+  sort_order: 40
+  abstract: false
+  parent_grouping_id_list:
+  - General food
+- id: General food frequency
+  unique_name: General food frequency
+  name: General food frequency
+  description: This category contains questions that indicate how much somebody eats
+    certain general foods. An example is "how often do you eat fish". We might still
+    decide in future to split them up in fruit & veggies, meat & fish?
+  label: General food frequency
+  sort_order: 41
+  abstract: false
+  parent_grouping_id_list:
+  - General food
+- id: General indoor environment
+  unique_name: General indoor environment
+  name: General indoor environment
+  description: This category contains all indoor housing characteristics that can
+    be relatively easy adapted. It includes carpets (new or old), curtains, painting,
+    how many electronical devices,.. It also includes behaviour like cooking,candle
+    burning, etc. Note that it also contains the use of aromatic sprays or pesticides
+    inside the house. Note that cleaning information and ventilation is kept as seperate
+    categories. productgebruik dat aan de woning gebonden is en niet persoonsgebonden
+  label: General indoor environment
+  sort_order: 24
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: General medication and vaccination
+  unique_name: General medication and vaccination
+  name: General medication and vaccination
+  description: This category contains all questions related to medication and vaccination.
+    Note that questions on medication for the specific diseases are put in the specific
+    category of the disease
+  label: General medication and vaccination
+  sort_order: 455
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: General mental health
+  unique_name: General mental health
+  name: General mental health
+  description: This category contains questions on mental health oa feeling score,
+    vitality score. It answers the question "how do you feel". You can feel exhausted,
+    or full of energy. For children we have a separate category "general child behaviour"
+    that answers the question "how do you behave" in certain situations.
+  label: General mental health
+  sort_order: 480
+  abstract: false
+  parent_grouping_id_list:
+  - Mental health
+- id: General perception on exposure
+  unique_name: General perception on exposure
+  name: General perception on exposure
+  description: This category contains questions on general environmental exposure
+    that cannot be put in one of the other categories
+  label: General perception on exposure
+  sort_order: 298
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: General physical activity
+  unique_name: General physical activity
+  name: General physical activity
+  description: 1st level group for General physical activity information
+  label: General physical activity
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Personal behavior
+- id: 'General physical activity '
+  unique_name: 'General physical activity '
+  name: 'General physical activity '
+  description: This category contains all questions on walking, working in the garden,
+    playing (for children), playing with children, sports and hobbies, etc. Screen
+    time is here also!
+  label: 'General physical activity '
+  sort_order: 50
+  abstract: false
+  parent_grouping_id_list:
+  - Personal behavior
+- id: General physical health
+  unique_name: General physical health
+  name: General physical health
+  description: This category contains all questions on general health like sore throat,
+    headaches, migraine, hearing and tinnitus, recollection and memory, respiratory
+    symptoms, etc, that are not as specifically and detailed questioned so that they
+    have their own category
+  label: General physical health
+  sort_order: 450
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: General property
+  unique_name: General property
+  name: General property
+  description: 1st level group for General property information
+  label: General property
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Property
+- id: General sample information
+  unique_name: General sample information
+  name: General sample information
+  description: This category contains all data relevant to the sampling and quality
+    of sampling, like the sampling date, that are not specific to one type of sample
+    or that are not of the specific types that have their own sub-category
+  label: General sample information
+  sort_order: 801
+  abstract: false
+  parent_grouping_id_list:
+  - Questionnaire and sample information
+- id: Genotoxicity
+  unique_name: Genotoxicity
+  name: Genotoxicity
+  description: This category contains all measurements of genotoxicity in human biological
+    material. Eg comet assy, micronucleus, telomer length, mitochondriaal DNA
+  label: Genotoxicity
+  sort_order: 2013
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Glycol ethers
+  unique_name: Glycol ethers
+  name: Glycol ethers
+  description: Glycol ethers
+  label: Glycol ethers
+  sort_order: 3003
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Ground and well water
+  unique_name: Ground and well water
+  name: Ground and well water
+  description: This category contains all questions on ground and well water and the
+    use of this water  ook consumptie?
+  label: Ground and well water
+  sort_order: 30
+  abstract: false
+  parent_grouping_id_list:
+  - Outdoor environment
+- id: Hair care
+  unique_name: Hair care
+  name: Hair care
+  description: 'This category contains all questions related to hair care: how often
+    you wash your hair, what products you use,etc.'
+  label: Hair care
+  sort_order: 57
+  abstract: false
+  parent_grouping_id_list:
+  - Personal care and hygiene
+- id: Halogens
+  unique_name: Halogens
+  name: Halogens
+  description: Halogens
+  label: Halogens
+  sort_order: 1022
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Health
+  unique_name: Health
+  name: Health
+  description: Top-level group for Health information
+  label: Health
+  sort_order: 0
+  abstract: true
+- id: Health data
+  unique_name: Health data
+  name: Health data
+  description: 1st level group for Health data information
+  label: Health data
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Health
+- id: Health outcome
+  unique_name: Health outcome
+  name: Health outcome
+  description: 1st level group for Health outcome information
+  label: Health outcome
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Health
+- id: Herbicides
+  unique_name: Herbicides
+  name: Herbicides
+  description: Herbicides
+  label: Herbicides
+  sort_order: 3001
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Hexamoll DINCH
+  unique_name: Hexamoll DINCH
+  name: Hexamoll DINCH
+  description: Hexamoll DINCH
+  label: Hexamoll DINCH
+  sort_order: 1016
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Historical and prevalent chronic diseases or conditions
+  unique_name: Historical and prevalent chronic diseases or conditions
+  name: Historical and prevalent chronic diseases or conditions
+  description: This category contains questions on historical and prevalent chronic
+    diseases or conditions
+  label: Historical and prevalent chronic diseases or conditions
+  sort_order: 457
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Hormone use
+  unique_name: Hormone use
+  name: Hormone use
+  description: This category contains all questions on hormone use, incl. oral contraceptives,
+    hormone replacement therapy
+  label: Hormone use
+  sort_order: 501
+  abstract: false
+  parent_grouping_id_list:
+  - Reproductive health
+- id: Housing
+  unique_name: Housing
+  name: Housing
+  description: 1st level group for Housing information
+  label: Housing
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: Housing problems
+  unique_name: Housing problems
+  name: Housing problems
+  description: 'This category contains all kinds of questions related to problems
+    that can occur in the house: water leaks, moisture, mold, rot, condensation on
+    windows, if there is a draft entering the house, if there has been a fire,.... '
+  label: Housing problems
+  sort_order: 23
+  abstract: false
+  parent_grouping_id_list:
+  - Housing
+- id: Indoor Energy, combustion behaviour and engines
+  unique_name: Indoor Energy, combustion behaviour and engines
+  name: Indoor Energy, combustion behaviour and engines
+  description: This category contains everything linked to EPC level of house, heating
+    the house, combustion behaviour, etc. It also contains questions like parked cars
+    in areas linked to the house.
+  label: Indoor Energy, combustion behaviour and engines
+  sort_order: 27
+  abstract: false
+  parent_grouping_id_list:
+  - Indoor environment
+- id: Indoor cleaning habits and products
+  unique_name: Indoor cleaning habits and products
+  name: Indoor cleaning habits and products
+  description: This category contains all questions related to cleaning habits and
+    cleaning products (often questioned is the use of javel). It also contains questions
+    like "Do you also mop the floor with water after vacuuming?"
+  label: Indoor cleaning habits and products
+  sort_order: 26
+  abstract: false
+  parent_grouping_id_list:
+  - Indoor environment
+- id: Indoor environment
+  unique_name: Indoor environment
+  name: Indoor environment
+  description: 1st level group for Indoor environment information
+  label: Indoor environment
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: Indoor ventilation
+  unique_name: Indoor ventilation
+  name: Indoor ventilation
+  description: identiek aan' Housing - Ventilation systems' ???
+  label: Indoor ventilation
+  sort_order: 25
+  abstract: false
+  parent_grouping_id_list:
+  - Indoor environment
+- id: Inflammation and immunity
+  unique_name: Inflammation and immunity
+  name: Inflammation and immunity
+  description: 'This category contains all measured inflammation and immune parameters
+    (eNO, lungcapacity, FOT, EBC, cytokinesetc.) and contains questions on inflammation '
+  label: Inflammation and immunity
+  sort_order: 422
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Injury, hospitalisation and surgery
+  unique_name: Injury, hospitalisation and surgery
+  name: Injury, hospitalisation and surgery
+  description: 'This category contains all questions on hospitalisations, surgery,
+    injury, etc. '
+  label: Injury, hospitalisation and surgery
+  sort_order: 456
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Kidney function
+  unique_name: Kidney function
+  name: Kidney function
+  description: This category contains all measurements of MOLECULAR AND CLINICAL kidney
+    functions in human biological material.
+  label: Kidney function
+  sort_order: 2008
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Kindfiche
+  unique_name: Kindfiche
+  name: Kindfiche
+  description: This category contains all measured health outcome at birth (from the
+    kindfiche)
+  label: Kindfiche
+  sort_order: 423
+  abstract: false
+  parent_grouping_id_list:
+  - Health outcome
+- id: Kitchen garden
+  unique_name: Kitchen garden
+  name: Kitchen garden
+  description: This category contains all questions related to kitchen garden. It
+    can include compost or pesticides if it is used in the kitchengarden. At 3xG we
+    also ask to persons that eat vegetables from their own kitchen garden if they
+    ever asked a company to analyse a soil sample. Note that we have a special category
+    for  consumption of vegetables from their own kitchen garden  (Nution and Diet-local
+    food),
+  label: Kitchen garden
+  sort_order: 29
+  abstract: false
+  parent_grouping_id_list:
+  - Outdoor environment
+- id: Lab markers for cardiometabolic health and metabolic diseases
+  unique_name: Lab markers for cardiometabolic health and metabolic diseases
+  name: Lab markers for cardiometabolic health and metabolic diseases
+  description: This category contains all measured health outcome in the group of
+    cardiometabolic parameters (height, weight and BMI, blood pressure) but not metabolic
+    hormones and questions on cardiovascular health and metabolic health.
+  label: Lab markers for cardiometabolic health and metabolic diseases
+  sort_order: 421
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Liver function
+  unique_name: Liver function
+  name: Liver function
+  description: This category contains all measurements of liver function
+  label: Liver function
+  sort_order: 2003
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Local and/or own chicken eggs
+  unique_name: Local and/or own chicken eggs
+  name: Local and/or own chicken eggs
+  description: This category contains all questions on egg consumption from local
+    and/or own chicken. It can also contain comparison of how many of the eggs you
+    eat are from own kitchen garden
+  label: Local and/or own chicken eggs
+  sort_order: 44
+  abstract: false
+  parent_grouping_id_list:
+  - Local food
+- id: 'Local and/or own food consumption and frequency '
+  unique_name: 'Local and/or own food consumption and frequency '
+  name: 'Local and/or own food consumption and frequency '
+  description: "This category contains all questions on local food consumption and\
+    \ frequency of local food consumption. If the local food is bio, then it will\
+    \ also be categorised in local food. If questions are posed combined for local\
+    \ and own kitchen garden food, then we also categorise it under local food. Questions\
+    \ like \"How often do you eat caught fish\" also belong here. Whenever a question\
+    \ is asked about pesticides used on local food, then this question is categorised\
+    \ here (also categorised in local food)\r\nook consumptie van eigen putwater?"
+  label: 'Local and/or own food consumption and frequency '
+  sort_order: 42
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: Local and/or own kitchen garden food
+  unique_name: Local and/or own kitchen garden food
+  name: Local and/or own kitchen garden food
+  description: This category contains all questions on own grown food consumption.
+    Note that the properties of the kitchen garden do have their own category
+  label: Local and/or own kitchen garden food
+  sort_order: 43
+  abstract: false
+  parent_grouping_id_list:
+  - Local food
+- id: Local food
+  unique_name: Local food
+  name: Local food
+  description: 1st level group for Local food information
+  label: Local food
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Nutricion and diet
+- id: Medication during pregnancy
+  unique_name: Medication during pregnancy
+  name: Medication during pregnancy
+  description: This category contains info on medication during pregnancy
+  label: Medication during pregnancy
+  sort_order: 471
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Menstruation
+  unique_name: Menstruation
+  name: Menstruation
+  description: This category contains all general questions related to menstruation
+  label: Menstruation
+  sort_order: 500
+  abstract: false
+  parent_grouping_id_list:
+  - Reproductive health
+- id: Mental health
+  unique_name: Mental health
+  name: Mental health
+  description: 1st level group for Mental health information
+  label: Mental health
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Health data
+- id: Metabolic hormones
+  unique_name: Metabolic hormones
+  name: Metabolic hormones
+  description: This category contains all measurements of metabolic hormones in human
+    biological material.
+  label: Metabolic hormones
+  sort_order: 2011
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Metals
+  unique_name: Metals
+  name: Metals
+  description: Metals
+  label: Metals
+  sort_order: 1013
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Musks
+  unique_name: Musks
+  name: Musks
+  description: Musks
+  label: Musks
+  sort_order: 1018
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Mycotoxins
+  unique_name: Mycotoxins
+  name: Mycotoxins
+  description: Mycotoxins
+  label: Mycotoxins
+  sort_order: 10001
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Nail care
+  unique_name: Nail care
+  name: Nail care
+  description: This category contains all questions related to nail care
+  label: Nail care
+  sort_order: 58
+  abstract: false
+  parent_grouping_id_list:
+  - Personal care and hygiene
+- id: Nationality, origin and language
+  unique_name: Nationality, origin and language
+  name: Nationality, origin and language
+  description: This category contains all info related to country of birth, nationality
+    and language
+  label: Nationality, origin and language
+  sort_order: 10
+  abstract: false
+  parent_grouping_id_list:
+  - Socio-economic status
+- id: Neuro Computer tests
+  unique_name: Neuro Computer tests
+  name: Neuro Computer tests
+  description: This category contains all computer test to asses neurocognition eg
+    Stroop, This category includes all age classes,
+  label: Neuro Computer tests
+  sort_order: 491
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro-cognition
+- id: Neuro child communication
+  unique_name: Neuro child communication
+  name: Neuro child communication
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions. This is the first out of 5
+    categories used during 3xG for child development
+  label: Neuro child communication
+  sort_order: 603
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro development
+- id: Neuro child fine motor skills
+  unique_name: Neuro child fine motor skills
+  name: Neuro child fine motor skills
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions.  This is the third out of 5
+    categories used during 3xG for child development
+  label: Neuro child fine motor skills
+  sort_order: 605
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro development
+- id: Neuro child general
+  unique_name: Neuro child general
+  name: Neuro child general
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions. For the moment we have here
+    3xG 6M questions related to what your child can do
+  label: Neuro child general
+  sort_order: 602
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: Neuro child gross motor skills
+  unique_name: Neuro child gross motor skills
+  name: Neuro child gross motor skills
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions. This is the second out of 5
+    categories used during 3xG for child development
+  label: Neuro child gross motor skills
+  sort_order: 604
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro development
+- id: Neuro child personal-social
+  unique_name: Neuro child personal-social
+  name: Neuro child personal-social
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions.  This is the fifth out of 5
+    categories used during 3xG for child development
+  label: Neuro child personal-social
+  sort_order: 607
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro development
+- id: Neuro child problem solving
+  unique_name: Neuro child problem solving
+  name: Neuro child problem solving
+  description: This category was created for 3xG because neuro was questionned in
+    such a detail that we want to group the questions.  This is the fourth out of
+    5 categories used during 3xG for child development
+  label: Neuro child problem solving
+  sort_order: 606
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro development
+- id: Neuro development
+  unique_name: Neuro development
+  name: Neuro development
+  description: 1st level group for Neuro development information
+  label: Neuro development
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: Neuro general
+  unique_name: Neuro general
+  name: Neuro general
+  description: This category contains all questions related to problems with neuro-cognition
+  label: Neuro general
+  sort_order: 490
+  abstract: false
+  parent_grouping_id_list:
+  - Neuro-cognition
+- id: Neuro-cognition
+  unique_name: Neuro-cognition
+  name: Neuro-cognition
+  description: 1st level group for Neuro-cognition information
+  label: Neuro-cognition
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Health data
+- id: Nicotine
+  unique_name: Nicotine
+  name: Nicotine
+  description: This category contains all measurements related to nicotine
+  label: Nicotine
+  sort_order: 2017
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Nutricion and diet
+  unique_name: Nutricion and diet
+  name: Nutricion and diet
+  description: 1st level group for Nutricion and diet information
+  label: Nutricion and diet
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Occupation and income
+  unique_name: Occupation and income
+  name: Occupation and income
+  description: This category contains all variables related to occupation and income
+  label: Occupation and income
+  sort_order: 13
+  abstract: false
+  parent_grouping_id_list:
+  - Socio-economic status
+- id: 'Occupational exposure '
+  unique_name: 'Occupational exposure '
+  name: 'Occupational exposure '
+  description: This category is there for questions that are related only to occupational
+    exposure. Whenever it is asked for professional but also personal or hobby, then
+    it will be categorized in the personal exposure to products categories. Current
+    occupation is also categorised in occupational exposure
+  label: 'Occupational exposure '
+  sort_order: 64
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Organochlorine compounds (OCs)
+  unique_name: Organochlorine compounds (OCs)
+  name: Organochlorine compounds (OCs)
+  description: Organochlorine compounds (OCs)
+  label: Organochlorine compounds (OCs)
+  sort_order: 10003
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Outdoor environment
+  unique_name: Outdoor environment
+  name: Outdoor environment
+  description: 1st level group for Outdoor environment information
+  label: Outdoor environment
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: Outdoor general
+  unique_name: Outdoor general
+  name: Outdoor general
+  description: This category contains all questions related to terrace and garden
+    (but not related to kitchen garden or chicken run because they have their own
+    category). This category can also include questions on compost if it is not specific
+    for a kitchen garden. It also includes questions on the use of pesticides (again
+    if it is not used in the kitchengarden)
+  label: Outdoor general
+  sort_order: 28
+  abstract: false
+  parent_grouping_id_list:
+  - Outdoor environment
+- id: Parabens
+  unique_name: Parabens
+  name: Parabens
+  description: Parabens
+  label: Parabens
+  sort_order: 1017
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Passive smoking
+  unique_name: Passive smoking
+  name: Passive smoking
+  description: This category contains all questions related to passive smoking or
+    being in rooms/cars where other people smoke
+  label: Passive smoking
+  sort_order: 62
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure to smoking
+- id: Per-/poly-fluorinated compounds (PFASs)
+  unique_name: Per-/poly-fluorinated compounds (PFASs)
+  name: Per-/poly-fluorinated compounds (PFASs)
+  description: Per-/poly-fluorinated compounds (PFASs)
+  label: Per-/poly-fluorinated compounds (PFASs)
+  sort_order: 1003
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Perception on exposure
+  unique_name: Perception on exposure
+  name: Perception on exposure
+  description: 1st level group for Perception on exposure information
+  label: Perception on exposure
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Perception on exposure due to climate and changing climate
+  unique_name: Perception on exposure due to climate and changing climate
+  name: Perception on exposure due to climate and changing climate
+  description: This category contains questions related to climate and changing climate
+  label: Perception on exposure due to climate and changing climate
+  sort_order: 299
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure due to food '
+  unique_name: 'Perception on exposure due to food '
+  name: 'Perception on exposure due to food '
+  description: 'This category contains questions on perception, concerns and opinions
+    on food. Also questions on the importance of food, eating together, reasons for
+    a specific diet, reasons for buying bio food, etc. '
+  label: 'Perception on exposure due to food '
+  sort_order: 300
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure due to indoor environment '
+  unique_name: 'Perception on exposure due to indoor environment '
+  name: 'Perception on exposure due to indoor environment '
+  description: 'This category contains questions perception, concerns and opinions
+    about indoor environment. Do you think ventilation is important? Or not smoking
+    in the house? '
+  label: 'Perception on exposure due to indoor environment '
+  sort_order: 301
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to agriculture '
+  unique_name: 'Perception on exposure exposure due to agriculture '
+  name: 'Perception on exposure exposure due to agriculture '
+  description: This category is about your perception, concerns and opinions about
+    exposure due to agriculture in general
+  label: 'Perception on exposure exposure due to agriculture '
+  sort_order: 303
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to air pollution, noise pollution, odor
+    nuisance '
+  unique_name: 'Perception on exposure exposure due to air pollution, noise pollution,
+    odor nuisance '
+  name: 'Perception on exposure exposure due to air pollution, noise pollution, odor
+    nuisance '
+  description: 'This category is about your perception, concerns and opinions about
+    exposure to air pollution, noise and odor nuisance '
+  label: 'Perception on exposure exposure due to air pollution, noise pollution, odor
+    nuisance '
+  sort_order: 306
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to build environment '
+  unique_name: 'Perception on exposure exposure due to build environment '
+  name: 'Perception on exposure exposure due to build environment '
+  description: This category is about your perception, concerns and opinions about
+    spatial (land us) planning  ????
+  label: 'Perception on exposure exposure due to build environment '
+  sort_order: 305
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to green area '
+  unique_name: 'Perception on exposure exposure due to green area '
+  name: 'Perception on exposure exposure due to green area '
+  description: This category is about questions on your perception of how important
+    green is for you for sporting, walking,etc. It answers questions that start with
+    "how important  isetc.", or "do you think...".  Note that there is a separate
+    category for measurements on green area (for example the distance from your house
+    to a parc or wood).
+  label: 'Perception on exposure exposure due to green area '
+  sort_order: 307
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to industry '
+  unique_name: 'Perception on exposure exposure due to industry '
+  name: 'Perception on exposure exposure due to industry '
+  description: This category is about your perception, concerns and opinions about
+    exposure due to industry. For example, air pollution due to industry, do you think
+    it is bad for your health. And who do you trust for information?
+  label: 'Perception on exposure exposure due to industry '
+  sort_order: 304
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: 'Perception on exposure exposure due to traffic and combustion '
+  unique_name: 'Perception on exposure exposure due to traffic and combustion '
+  name: 'Perception on exposure exposure due to traffic and combustion '
+  description: This category is about your perception, concerns and opinions about
+    traffic and combustion,
+  label: 'Perception on exposure exposure due to traffic and combustion '
+  sort_order: 302
+  abstract: false
+  parent_grouping_id_list:
+  - Perception on exposure
+- id: Persistent Organic Pollutants (POPs)
+  unique_name: Persistent Organic Pollutants (POPs)
+  name: Persistent Organic Pollutants (POPs)
+  description: Persistent Organic Pollutants (POPs)
+  label: Persistent Organic Pollutants (POPs)
+  sort_order: 1014
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Personal
+  unique_name: Personal
+  name: Personal
+  description: Top-level group for Personal information
+  label: Personal
+  sort_order: 0
+  abstract: true
+- id: Personal behavior
+  unique_name: Personal behavior
+  name: Personal behavior
+  description: 1st level group for Personal behavior information
+  label: Personal behavior
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Personal care and hygiene
+  unique_name: Personal care and hygiene
+  name: Personal care and hygiene
+  description: 1st level group for Personal care and hygiene information
+  label: Personal care and hygiene
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Personal exposure
+  unique_name: Personal exposure
+  name: Personal exposure
+  description: 1st level group for Personal exposure information
+  label: Personal exposure
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: 'Personal exposure to products '
+  unique_name: 'Personal exposure to products '
+  name: 'Personal exposure to products '
+  description: This category is specific for products specific for the person (also
+    professional is asked together with personal or hobby) that are used indoor or
+    outdoors and that are not for personal care and hygiene or for cleaning.  Note
+    that the difference between this category and the indoor environment is not so
+    easy. For now we say here products that are not related to the house. We have
+    to see that and clear out this explanation!!!
+  label: 'Personal exposure to products '
+  sort_order: 63
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Personal exposure to smoking
+  unique_name: Personal exposure to smoking
+  name: Personal exposure to smoking
+  description: 1st level group for Personal exposure to smoking information
+  label: Personal exposure to smoking
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Personal exposure
+- id: Personal information
+  unique_name: Personal information
+  name: Personal information
+  description: 1st level group for Personal information information
+  label: Personal information
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Personal
+- id: Personal parameters
+  unique_name: Personal parameters
+  name: Personal parameters
+  description: 'This category contains all kinds of personal info that can be relevant
+    for health: birth date, sex, age , no of child from biological mother. Note that
+    we add handedness to that (just to give it a place). Due to GDPR reasons for some
+    variables only the questions will be available in the database'
+  label: Personal parameters
+  sort_order: 2
+  abstract: false
+  parent_grouping_id_list:
+  - Personal information
+- id: Pesticides
+  unique_name: Pesticides
+  name: Pesticides
+  description: Pesticides
+  label: Pesticides
+  sort_order: 1008
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Pesticides (carbamate)
+  unique_name: Pesticides (carbamate)
+  name: Pesticides (carbamate)
+  description: Pesticides (carbamate)
+  label: Pesticides (carbamate)
+  sort_order: 1009.5
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Pesticides (pyrethroids)
+  unique_name: Pesticides (pyrethroids)
+  name: Pesticides (pyrethroids)
+  description: Pesticides and pyrethroids
+  label: Pesticides (pyrethroids)
+  sort_order: 1009
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Phthalates
+  unique_name: Phthalates
+  name: Phthalates
+  description: Phthalates  This category contains measurements of phtalates in different
+    human and non-human matrices.
+  label: Phthalates
+  sort_order: 1001
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Physical health
+  unique_name: Physical health
+  name: Physical health
+  description: 1st level group for Physical health information
+  label: Physical health
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Health data
+- id: Physical health during birth
+  unique_name: Physical health during birth
+  name: Physical health during birth
+  description: This category contains special questions on health that are only posed
+    to women relevant to giving birth
+  label: Physical health during birth
+  sort_order: 473
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Physical health during breast feeding
+  unique_name: Physical health during breast feeding
+  name: Physical health during breast feeding
+  description: This category contains special questions on health related to health
+    that are only posed to women that are breast feeding
+  label: Physical health during breast feeding
+  sort_order: 474
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Physical health during pregnancy
+  unique_name: Physical health during pregnancy
+  name: Physical health during pregnancy
+  description: This category contains special questions on health that are only posed
+    to pregnant women
+  label: Physical health during pregnancy
+  sort_order: 470
+  abstract: false
+  parent_grouping_id_list:
+  - Physical health
+- id: Polycyclic Aromatic Hydrocarbons (PAHs)
+  unique_name: Polycyclic Aromatic Hydrocarbons (PAHs)
+  name: Polycyclic Aromatic Hydrocarbons (PAHs)
+  description: Polycyclic Aromatic Hydrocarbons (PAHs)
+  label: Polycyclic Aromatic Hydrocarbons (PAHs)
+  sort_order: 1006
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Practical
+  unique_name: Practical
+  name: Practical
+  description: Top-level group for Practical information
+  label: Practical
+  sort_order: 0
+  abstract: true
+- id: Pregnancy
+  unique_name: Pregnancy
+  name: Pregnancy
+  description: This category contains all general questions on pregnancy, not related
+    to exposure for a specific child that is also part of the study
+  label: Pregnancy
+  sort_order: 503
+  abstract: false
+  parent_grouping_id_list:
+  - Reproductive health
+- id: Products on skin
+  unique_name: Products on skin
+  name: Products on skin
+  description: This category contains all questions related to care products, make-up,
+    perfume, whether you use fabric softener when you wash your clothes. It also contains
+    questions on pearcing and earrings
+  label: Products on skin
+  sort_order: 54
+  abstract: false
+  parent_grouping_id_list:
+  - Personal care and hygiene
+- id: Property
+  unique_name: Property
+  name: Property
+  description: Top-level group for Property information
+  label: Property
+  sort_order: 0
+  abstract: true
+- id: Property of blood
+  unique_name: Property of blood
+  name: Property of blood
+  description: Property of blood
+  label: Property of blood
+  sort_order: 4001
+  abstract: false
+  parent_grouping_id_list:
+  - General property
+- id: Property of soil
+  unique_name: Property of soil
+  name: Property of soil
+  description: Property of soil
+  label: Property of soil
+  sort_order: 4000
+  abstract: false
+  parent_grouping_id_list:
+  - General property
+- id: Property of urine
+  unique_name: Property of urine
+  name: Property of urine
+  description: Property of urine
+  label: Property of urine
+  sort_order: 4002
+  abstract: false
+  parent_grouping_id_list:
+  - General property
+- id: Puberty
+  unique_name: Puberty
+  name: Puberty
+  description: 1st level group for Puberty information
+  label: Puberty
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Child development
+- id: Questionnaire and sample information
+  unique_name: Questionnaire and sample information
+  name: Questionnaire and sample information
+  description: 1st level group for Questionnaire and sample information information
+  label: Questionnaire and sample information
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Practical
+- id: Questionnaire information
+  unique_name: Questionnaire information
+  name: Questionnaire information
+  description: This category contains variables like the date of questionnaire sending,
+    date of filling in questionnaire, who filled in the questionnaire, if questionnaire
+    is filled in on paper or electronically, remarks on questionnaire
+  label: Questionnaire information
+  sort_order: 800
+  abstract: false
+  parent_grouping_id_list:
+  - Questionnaire and sample information
+- id: Recent illness or medication information
+  unique_name: Recent illness or medication information
+  name: Recent illness or medication information
+  description: This category contains recent illness or medication information relevant
+    for recent illnesses and not for general health
+  label: Recent illness or medication information
+  sort_order: 401
+  abstract: false
+  parent_grouping_id_list:
+  - Recent personal exposure
+- id: Recent nutricion information
+  unique_name: Recent nutricion information
+  name: Recent nutricion information
+  description: This category contains recent nutrition information relevant for recent
+    nutricion and not for food categories
+  label: Recent nutricion information
+  sort_order: 402
+  abstract: false
+  parent_grouping_id_list:
+  - Recent personal exposure
+- id: Recent personal exposure
+  unique_name: Recent personal exposure
+  name: Recent personal exposure
+  description: 1st level group for Recent personal exposure information
+  label: Recent personal exposure
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Recent personal exposure
+  - Exposure
+- id: Regional characteristics
+  unique_name: Regional characteristics
+  name: Regional characteristics
+  description: This category contains questions including current and historical adress,
+    hotspot zone, whether it is a deprived neighborhood, etc. The questions can be
+    asked in the questionnaire to the participant, but it can also be environmental
+    information that is available on geo coordinates or community level
+  label: Regional characteristics
+  sort_order: 20
+  abstract: false
+  parent_grouping_id_list:
+  - Residence
+- id: Reproductive and metabolic health outcomes
+  unique_name: Reproductive and metabolic health outcomes
+  name: Reproductive and metabolic health outcomes
+  description: This category contains all measurements related to reproductive and
+    metabolic health outcomes
+  label: Reproductive and metabolic health outcomes
+  sort_order: 2020
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Reproductive breast feeding
+  unique_name: Reproductive breast feeding
+  name: Reproductive breast feeding
+  description: This category contains all general questions on breast feeding not
+    related to a specific child that is also part of the study
+  label: Reproductive breast feeding
+  sort_order: 504
+  abstract: false
+  parent_grouping_id_list:
+  - Reproductive health
+- id: Reproductive health
+  unique_name: Reproductive health
+  name: Reproductive health
+  description: 1st level group for Reproductive health information
+  label: Reproductive health
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Health data
+- id: Residence
+  unique_name: Residence
+  name: Residence
+  description: 1st level group for Residence information
+  label: Residence
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Sample information
+  unique_name: Sample information
+  name: Sample information
+  description: 1st level group for Sample information information
+  label: Sample information
+  sort_order: 0.2
+  abstract: false
+  parent_grouping_id_list:
+  - Questionnaire and sample information
+- id: Sample information on blood sampling
+  unique_name: Sample information on blood sampling
+  name: Sample information on blood sampling
+  description: This category contains all data relevant to the blood sampling collection,
+    like if a person was sober, sampling time, if a sample is available
+  label: Sample information on blood sampling
+  sort_order: 802
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: Sample information on cordblood collection
+  unique_name: Sample information on cordblood collection
+  name: Sample information on cordblood collection
+  description: This category contains all data relevant to the cordblood  collection,
+    like collection time, if a sample is available, volume
+  label: Sample information on cordblood collection
+  sort_order: 803
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: Sample information on hair collection
+  unique_name: Sample information on hair collection
+  name: Sample information on hair collection
+  description: This category contains all sampling information relevant to the quality
+    of the hair sample (eg. Hair is too short)
+  label: Sample information on hair collection
+  sort_order: 805
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: Sample information on mother milk collection
+  unique_name: Sample information on mother milk collection
+  name: Sample information on mother milk collection
+  description: This category contains all sampling information on mother milk collection
+  label: Sample information on mother milk collection
+  sort_order: 804
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: Sample information on urine collection
+  unique_name: Sample information on urine collection
+  name: Sample information on urine collection
+  description: This category contains all sampling information related to the urine
+    collection. For example if a person forgot the morning collection and thus delivers
+    an on-spot collection
+  label: Sample information on urine collection
+  sort_order: 806
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: Sedentary behaviour
+  unique_name: Sedentary behaviour
+  name: Sedentary behaviour
+  description: Sedentary behaviour
+  label: Sedentary behaviour
+  sort_order: 52
+  abstract: false
+  parent_grouping_id_list:
+  - General physical activity
+- id: Sleeping habits and problems
+  unique_name: Sleeping habits and problems
+  name: Sleeping habits and problems
+  description: This category contains questions on sleeping habits and problems
+  label: Sleeping habits and problems
+  sort_order: 483
+  abstract: false
+  parent_grouping_id_list:
+  - Mental health
+- id: Smoking
+  unique_name: Smoking
+  name: Smoking
+  description: This category contains all questions related to active smoking now
+    and in the past
+  label: Smoking
+  sort_order: 53
+  abstract: false
+  parent_grouping_id_list:
+  - Personal behavior
+- id: Socio-economic status
+  unique_name: Socio-economic status
+  name: Socio-economic status
+  description: 1st level group for Socio-economic status information
+  label: Socio-economic status
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Exposure
+- id: Steroid/Sex hormones
+  unique_name: Steroid/Sex hormones
+  name: Steroid/Sex hormones
+  description: This category contains all measurements of steroids/sex hormones in
+    human biological material.
+  label: Steroid/Sex hormones
+  sort_order: 2009
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Stress hormones
+  unique_name: Stress hormones
+  name: Stress hormones
+  description: This category contains all measurements of stress hormones in human
+    biological material. Eg cortisol in hair
+  label: Stress hormones
+  sort_order: 2012
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Stress perception
+  unique_name: Stress perception
+  name: Stress perception
+  description: This category contains questions on stress
+  label: Stress perception
+  sort_order: 481
+  abstract: false
+  parent_grouping_id_list:
+  - Mental health
+- id: Stress perception during pregnancy
+  unique_name: Stress perception during pregnancy
+  name: Stress perception during pregnancy
+  description: This category contains questions on stress during pregnancy
+  label: Stress perception during pregnancy
+  sort_order: 482
+  abstract: false
+  parent_grouping_id_list:
+  - Mental health
+- id: Study agreement
+  unique_name: Study agreement
+  name: Study agreement
+  description: This category contains info on study agreement
+  label: Study agreement
+  sort_order: 1
+  abstract: false
+  parent_grouping_id_list:
+  - Study information
+- id: Study design
+  unique_name: Study design
+  name: Study design
+  description: 1st level group for Study design information
+  label: Study design
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Practical
+  - Study design
+- id: Study information
+  unique_name: Study information
+  name: Study information
+  description: 1st level group for Study information information
+  label: Study information
+  sort_order: 0.1
+  abstract: true
+  parent_grouping_id_list:
+  - Practical
+- id: Thyroid hormones
+  unique_name: Thyroid hormones
+  name: Thyroid hormones
+  description: This category contains all measurements of thyroid hormones in human
+    biological material.
+  label: Thyroid hormones
+  sort_order: 2010
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Tooth care
+  unique_name: Tooth care
+  name: Tooth care
+  description: This category contains all questions related to tooth care, dental
+    fillings
+  label: Tooth care
+  sort_order: 56
+  abstract: false
+  parent_grouping_id_list:
+  - Personal care and hygiene
+- id: Triclosan
+  unique_name: Triclosan
+  name: Triclosan
+  description: Triclosan
+  label: Triclosan
+  sort_order: 1019
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: UV-filters (benzophenones)
+  unique_name: UV-filters (benzophenones)
+  name: UV-filters (benzophenones)
+  description: UV-filters (benzophenones)
+  label: UV-filters (benzophenones)
+  sort_order: 1012
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: UV-screens
+  unique_name: UV-screens
+  name: UV-screens
+  description: UV-screens
+  label: UV-screens
+  sort_order: 1021
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Urinary dilution
+  unique_name: Urinary dilution
+  name: Urinary dilution
+  description: This category contains all measurements of urinary dilution eg creatinine,
+    sg.
+  label: Urinary dilution
+  sort_order: 2004
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Ventilation systems
+  unique_name: Ventilation systems
+  name: Ventilation systems
+  description: This category contains all questions related to ventilation systems
+    in the house
+  label: Ventilation systems
+  sort_order: 22
+  abstract: false
+  parent_grouping_id_list:
+  - Housing
+- id: Vitamins
+  unique_name: Vitamins
+  name: Vitamins
+  description: This category contains all measurements of vitamins in human biological
+    material.
+  label: Vitamins
+  sort_order: 2001
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
+- id: Volatile Organic Compounds (VOCs)
+  unique_name: Volatile Organic Compounds (VOCs)
+  name: Volatile Organic Compounds (VOCs)
+  description: Volatile Organic Compounds (VOCs)
+  label: Volatile Organic Compounds (VOCs)
+  sort_order: 1015
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: Volatile anaesthetics
+  unique_name: Volatile anaesthetics
+  name: Volatile anaesthetics
+  description: Volatile anaesthetics
+  label: Volatile anaesthetics
+  sort_order: 1023
+  abstract: false
+  parent_grouping_id_list:
+  - Exposure marker
+- id: characteristics of non human samples
+  unique_name: characteristics of non human samples
+  name: characteristics of non human samples
+  description: The sampletypes in which we measure can also have properties that are
+    not directly markers, but are measured in the lab. This can be ph of soil, and
+    other characteristics that need to be kept in the database
+  label: characteristics of non human samples
+  sort_order: 100000
+  abstract: false
+  parent_grouping_id_list:
+  - Sample information
+- id: cytokines
+  unique_name: cytokines
+  name: cytokines
+  description: This category contains all measurements related to cytokines
+  label: cytokines
+  sort_order: 2018
+  abstract: false
+  parent_grouping_id_list:
+  - Effect marker
