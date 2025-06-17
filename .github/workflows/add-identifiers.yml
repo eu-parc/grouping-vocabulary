@@ -15,10 +15,10 @@ jobs:
         with:
             ref: ${{ github.ref }}
             data: data/data.yaml
-            target_name: #[ADD HERE]
+            target_name: groupings
             # parent_key: parent_matrix: OPTIONAL
             preflabel: label
-            type_prefix: #[ADD identifier prefix]
+            type_prefix: GR
             namespace: https://w3id.org/peh/
             artefact_name: data-with-id.yaml
             output: data-with-id.yaml
@@ -78,8 +78,9 @@ jobs:
       with:
         ref: ${{ github.ref }}
         namespace: https://w3id.org/peh/terms/
-        namespace_label: pehterms
         linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
         artefact_name: data-with-id.yaml
+        voc_uri: https://w3id.org/peh/groupings
+        entity_name: Grouping
       secrets:
             token: ${{ secrets.GITHUB_TOKEN }}
