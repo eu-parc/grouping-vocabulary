@@ -7,7 +7,7 @@ groupings:
   sort_order: 10000
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-27a32a6cb0
   unique_name: Alcohol and drugs
   name: Alcohol and drugs
@@ -17,7 +17,7 @@ groupings:
   sort_order: 4
   abstract: false
   parent_grouping_id_list:
-  - Personal behavior
+  - https://w3id.org/peh/GR-356af2f9e6
 - id: https://w3id.org/peh/GR-838ce0801b
   unique_name: Alkaloid
   name: Alkaloid
@@ -26,7 +26,7 @@ groupings:
   sort_order: 10002
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-76d34a0495
   unique_name: Anilines and MOCA
   name: Anilines and MOCA
@@ -35,7 +35,7 @@ groupings:
   sort_order: 1007
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-338b6e271a
   unique_name: Animals
   name: Animals
@@ -44,7 +44,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-e1bb169c6f
   unique_name: Aprotic solvents
   name: Aprotic solvents
@@ -53,7 +53,7 @@ groupings:
   sort_order: 1010
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-59383ece93
   unique_name: Asthma and allergy
   name: Asthma and allergy
@@ -64,7 +64,7 @@ groupings:
   sort_order: 451
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-2507ee50d0
   unique_name: Baby feeding
   name: Baby feeding
@@ -75,7 +75,7 @@ groupings:
   sort_order: 47
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-80b10d7a52
   unique_name: Bathing and showering
   name: Bathing and showering
@@ -85,7 +85,7 @@ groupings:
   sort_order: 55
   abstract: false
   parent_grouping_id_list:
-  - Personal care and hygiene
+  - https://w3id.org/peh/GR-2695e59bf6
 - id: https://w3id.org/peh/GR-7873b6f250
   unique_name: Biological food
   name: Biological food
@@ -95,7 +95,7 @@ groupings:
   sort_order: 45
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-7077f9c6a0
   unique_name: Bisphenols
   name: Bisphenols
@@ -104,7 +104,7 @@ groupings:
   sort_order: 1005
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-2413b569bf
   unique_name: Blood Lipids and lipid transport proteins
   name: Blood Lipids and lipid transport proteins
@@ -114,7 +114,7 @@ groupings:
   sort_order: 2006
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-e3def8b983
   unique_name: Blood and blood composition
   name: Blood and blood composition
@@ -124,7 +124,7 @@ groupings:
   sort_order: 2007
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-6e337eb8ea
   unique_name: Building characteristics
   name: Building characteristics
@@ -136,7 +136,7 @@ groupings:
   sort_order: 21
   abstract: false
   parent_grouping_id_list:
-  - Housing
+  - https://w3id.org/peh/GR-6214b425ac
 - id: https://w3id.org/peh/GR-8d28995318
   unique_name: Cardiometabolic health and metabolic diseases
   name: Cardiometabolic health and metabolic diseases
@@ -147,7 +147,7 @@ groupings:
   sort_order: 420
   abstract: false
   parent_grouping_id_list:
-  - Health outcome
+  - https://w3id.org/peh/GR-80c40b7492
 - id: https://w3id.org/peh/GR-a93711fec6
   unique_name: Care products
   name: Care products
@@ -156,7 +156,7 @@ groupings:
   sort_order: 10004
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-dca8d6d4a8
   unique_name: Cell ageing
   name: Cell ageing
@@ -166,7 +166,7 @@ groupings:
   sort_order: 2016
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-3ae5c18161
   unique_name: Cell growth and cancer markers
   name: Cell growth and cancer markers
@@ -176,7 +176,7 @@ groupings:
   sort_order: 2015
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-a9514f8884
   unique_name: Chicken
   name: Chicken
@@ -187,7 +187,7 @@ groupings:
   sort_order: 32
   abstract: false
   parent_grouping_id_list:
-  - Animals
+  - https://w3id.org/peh/GR-338b6e271a
 - id: https://w3id.org/peh/GR-0f5868e7bb
   unique_name: Child CLB data
   name: Child CLB data
@@ -197,7 +197,7 @@ groupings:
   sort_order: 609
   abstract: false
   parent_grouping_id_list:
-  - Puberty
+  - https://w3id.org/peh/GR-2ea3776e70
 - id: https://w3id.org/peh/GR-2ad6034173
   unique_name: 'Child at birth '
   name: 'Child at birth '
@@ -209,7 +209,7 @@ groupings:
   sort_order: 600
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-d8003b419a
   unique_name: Child development
   name: Child development
@@ -218,7 +218,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Health
+  - https://w3id.org/peh/GR-605669cab9
 - id: https://w3id.org/peh/GR-df567b7681
   unique_name: Child exposure
   name: Child exposure
@@ -229,7 +229,7 @@ groupings:
   sort_order: 61
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-caa3bf636c
   unique_name: Child puberty
   name: Child puberty
@@ -239,7 +239,7 @@ groupings:
   sort_order: 608
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-e044c0d03a
   unique_name: Commuting
   name: Commuting
@@ -249,7 +249,7 @@ groupings:
   sort_order: 51
   abstract: false
   parent_grouping_id_list:
-  - General physical activity
+  - https://w3id.org/peh/GR-68060310d8
 - id: https://w3id.org/peh/GR-5e3d6d040d
   unique_name: Contact information
   name: Contact information
@@ -262,7 +262,7 @@ groupings:
   sort_order: 3
   abstract: false
   parent_grouping_id_list:
-  - Personal information
+  - https://w3id.org/peh/GR-2433db5a32
 - id: https://w3id.org/peh/GR-cac83ffadf
   unique_name: DINCH
   name: DINCH
@@ -271,7 +271,7 @@ groupings:
   sort_order: 1002
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-b5a1da1679
   unique_name: Diisocyanates
   name: Diisocyanates
@@ -280,7 +280,7 @@ groupings:
   sort_order: 1011
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-ca2e654647
   unique_name: Dioxins
   name: Dioxins
@@ -289,7 +289,7 @@ groupings:
   sort_order: 3002
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-59a2b5836a
   unique_name: Domestic animals
   name: Domestic animals
@@ -300,7 +300,7 @@ groupings:
   sort_order: 31
   abstract: false
   parent_grouping_id_list:
-  - Animals
+  - https://w3id.org/peh/GR-338b6e271a
 - id: https://w3id.org/peh/GR-8f9d338648
   unique_name: 'Early life exposure '
   name: 'Early life exposure '
@@ -310,7 +310,7 @@ groupings:
   sort_order: 60
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-8ae4f78e30
   unique_name: Education and degree
   name: Education and degree
@@ -320,7 +320,7 @@ groupings:
   sort_order: 12
   abstract: false
   parent_grouping_id_list:
-  - Socio-economic status
+  - https://w3id.org/peh/GR-2ea8e050ad
 - id: https://w3id.org/peh/GR-a62d229107
   unique_name: Effect
   name: Effect
@@ -336,8 +336,8 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Health
-  - Effect
+  - https://w3id.org/peh/GR-605669cab9
+  - https://w3id.org/peh/GR-a62d229107
 - id: https://w3id.org/peh/GR-34cb29593b
   unique_name: Environmental exposure
   name: Environmental exposure
@@ -346,7 +346,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-311128a9e0
   unique_name: Environmental exposure due to agriculture
   name: Environmental exposure due to agriculture
@@ -355,7 +355,7 @@ groupings:
   sort_order: 203
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-9d634ca4ce
   unique_name: 'Environmental exposure due to air pollution, noise pollution, odor
     nuisance '
@@ -367,7 +367,7 @@ groupings:
   sort_order: 206
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-e83c15e74b
   unique_name: 'Environmental exposure due to build environment '
   name: 'Environmental exposure due to build environment '
@@ -377,7 +377,7 @@ groupings:
   sort_order: 205
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-5291c72d33
   unique_name: Environmental exposure due to climate and changing climate
   name: Environmental exposure due to climate and changing climate
@@ -387,7 +387,7 @@ groupings:
   sort_order: 208
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-c9186eaada
   unique_name: Environmental exposure due to green area
   name: Environmental exposure due to green area
@@ -396,7 +396,7 @@ groupings:
   sort_order: 207
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-2968bba112
   unique_name: Environmental exposure due to industry
   name: Environmental exposure due to industry
@@ -405,7 +405,7 @@ groupings:
   sort_order: 204
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-02eb8f2acc
   unique_name: 'Environmental exposure due to traffic and combustion '
   name: 'Environmental exposure due to traffic and combustion '
@@ -420,7 +420,7 @@ groupings:
   sort_order: 202
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-0935a6db51
   unique_name: Environmental indoor exposure
   name: Environmental indoor exposure
@@ -429,7 +429,7 @@ groupings:
   sort_order: 201
   abstract: false
   parent_grouping_id_list:
-  - Environmental exposure
+  - https://w3id.org/peh/GR-34cb29593b
 - id: https://w3id.org/peh/GR-00187fb3ab
   unique_name: Epigenetic markers
   name: Epigenetic markers
@@ -438,7 +438,7 @@ groupings:
   sort_order: 2019
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-ef2fcf9175
   unique_name: Essential elements
   name: Essential elements
@@ -448,7 +448,7 @@ groupings:
   sort_order: 2002
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-df10da7c5d
   unique_name: Exposure
   name: Exposure
@@ -465,7 +465,7 @@ groupings:
   sort_order: 59
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-13e812a346
   unique_name: Exposure marker
   name: Exposure marker
@@ -474,7 +474,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-6d274b2e32
   unique_name: Family composition
   name: Family composition
@@ -484,7 +484,7 @@ groupings:
   sort_order: 11
   abstract: false
   parent_grouping_id_list:
-  - Socio-economic status
+  - https://w3id.org/peh/GR-2ea8e050ad
 - id: https://w3id.org/peh/GR-4434e91475
   unique_name: Family history of disease
   name: Family history of disease
@@ -493,7 +493,7 @@ groupings:
   sort_order: 458
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-c2ac98c862
   unique_name: Fertility
   name: Fertility
@@ -503,7 +503,7 @@ groupings:
   sort_order: 502
   abstract: false
   parent_grouping_id_list:
-  - Reproductive health
+  - https://w3id.org/peh/GR-b948a35381
 - id: https://w3id.org/peh/GR-992d3cf044
   unique_name: Flame retardants
   name: Flame retardants
@@ -512,7 +512,7 @@ groupings:
   sort_order: 1004
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-86400ce248
   unique_name: Food supplements
   name: Food supplements
@@ -522,7 +522,7 @@ groupings:
   sort_order: 46
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-7b82e9c11b
   unique_name: Food supplements during pregnancy
   name: Food supplements during pregnancy
@@ -531,7 +531,7 @@ groupings:
   sort_order: 472
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-c161022657
   unique_name: Furans
   name: Furans
@@ -540,7 +540,7 @@ groupings:
   sort_order: 3000
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-bb2557e06e
   unique_name: 'General child behavior '
   name: 'General child behavior '
@@ -551,7 +551,7 @@ groupings:
   sort_order: 601
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-f4bf0b8c8a
   unique_name: General food
   name: General food
@@ -560,7 +560,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-2cb4fd3d8b
   unique_name: General food consumption
   name: General food consumption
@@ -574,7 +574,7 @@ groupings:
   sort_order: 40
   abstract: false
   parent_grouping_id_list:
-  - General food
+  - https://w3id.org/peh/GR-f4bf0b8c8a
 - id: https://w3id.org/peh/GR-5c0c757b41
   unique_name: General food frequency
   name: General food frequency
@@ -585,7 +585,7 @@ groupings:
   sort_order: 41
   abstract: false
   parent_grouping_id_list:
-  - General food
+  - https://w3id.org/peh/GR-f4bf0b8c8a
 - id: https://w3id.org/peh/GR-ea20519431
   unique_name: General indoor environment
   name: General indoor environment
@@ -599,7 +599,7 @@ groupings:
   sort_order: 24
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-d7d1ad921a
   unique_name: General medication and vaccination
   name: General medication and vaccination
@@ -610,7 +610,7 @@ groupings:
   sort_order: 455
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-fd3d843f52
   unique_name: General mental health
   name: General mental health
@@ -622,7 +622,7 @@ groupings:
   sort_order: 480
   abstract: false
   parent_grouping_id_list:
-  - Mental health
+  - https://w3id.org/peh/GR-7bab96833d
 - id: https://w3id.org/peh/GR-0210ad3b78
   unique_name: General perception on exposure
   name: General perception on exposure
@@ -632,7 +632,7 @@ groupings:
   sort_order: 298
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-68060310d8
   unique_name: General physical activity
   name: General physical activity
@@ -641,7 +641,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Personal behavior
+  - https://w3id.org/peh/GR-356af2f9e6
 - id: https://w3id.org/peh/GR-7d0e06ddd8
   unique_name: 'General physical activity '
   name: 'General physical activity '
@@ -652,7 +652,7 @@ groupings:
   sort_order: 50
   abstract: false
   parent_grouping_id_list:
-  - Personal behavior
+  - https://w3id.org/peh/GR-356af2f9e6
 - id: https://w3id.org/peh/GR-3b78b95de5
   unique_name: General physical health
   name: General physical health
@@ -664,7 +664,7 @@ groupings:
   sort_order: 450
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-369bbc0408
   unique_name: General property
   name: General property
@@ -673,7 +673,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Property
+  - https://w3id.org/peh/GR-5ad234cb2c
 - id: https://w3id.org/peh/GR-60be8fd3f6
   unique_name: General sample information
   name: General sample information
@@ -684,7 +684,7 @@ groupings:
   sort_order: 801
   abstract: false
   parent_grouping_id_list:
-  - Questionnaire and sample information
+  - https://w3id.org/peh/GR-5c0a7d900f
 - id: https://w3id.org/peh/GR-53cdf7eceb
   unique_name: Genotoxicity
   name: Genotoxicity
@@ -694,7 +694,7 @@ groupings:
   sort_order: 2013
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-b1aa44e57e
   unique_name: Glycol ethers
   name: Glycol ethers
@@ -703,7 +703,7 @@ groupings:
   sort_order: 3003
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-4c24ea23c7
   unique_name: Ground and well water
   name: Ground and well water
@@ -713,7 +713,7 @@ groupings:
   sort_order: 30
   abstract: false
   parent_grouping_id_list:
-  - Outdoor environment
+  - https://w3id.org/peh/GR-f7b6a94431
 - id: https://w3id.org/peh/GR-24ae4c9f4f
   unique_name: Hair care
   name: Hair care
@@ -723,7 +723,7 @@ groupings:
   sort_order: 57
   abstract: false
   parent_grouping_id_list:
-  - Personal care and hygiene
+  - https://w3id.org/peh/GR-2695e59bf6
 - id: https://w3id.org/peh/GR-942fd6f6e8
   unique_name: Halogens
   name: Halogens
@@ -732,7 +732,7 @@ groupings:
   sort_order: 1022
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-605669cab9
   unique_name: Health
   name: Health
@@ -748,7 +748,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Health
+  - https://w3id.org/peh/GR-605669cab9
 - id: https://w3id.org/peh/GR-80c40b7492
   unique_name: Health outcome
   name: Health outcome
@@ -757,7 +757,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Health
+  - https://w3id.org/peh/GR-605669cab9
 - id: https://w3id.org/peh/GR-e23b103079
   unique_name: Herbicides
   name: Herbicides
@@ -766,7 +766,7 @@ groupings:
   sort_order: 3001
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-e2a5dec30e
   unique_name: Hexamoll DINCH
   name: Hexamoll DINCH
@@ -775,7 +775,7 @@ groupings:
   sort_order: 1016
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-4b830fe5b5
   unique_name: Historical and prevalent chronic diseases or conditions
   name: Historical and prevalent chronic diseases or conditions
@@ -785,7 +785,7 @@ groupings:
   sort_order: 457
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-9b1a0b3569
   unique_name: Hormone use
   name: Hormone use
@@ -795,7 +795,7 @@ groupings:
   sort_order: 501
   abstract: false
   parent_grouping_id_list:
-  - Reproductive health
+  - https://w3id.org/peh/GR-b948a35381
 - id: https://w3id.org/peh/GR-6214b425ac
   unique_name: Housing
   name: Housing
@@ -804,7 +804,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-4e1621a8a9
   unique_name: Housing problems
   name: Housing problems
@@ -815,7 +815,7 @@ groupings:
   sort_order: 23
   abstract: false
   parent_grouping_id_list:
-  - Housing
+  - https://w3id.org/peh/GR-6214b425ac
 - id: https://w3id.org/peh/GR-edab7c3d8a
   unique_name: Indoor Energy, combustion behaviour and engines
   name: Indoor Energy, combustion behaviour and engines
@@ -826,7 +826,7 @@ groupings:
   sort_order: 27
   abstract: false
   parent_grouping_id_list:
-  - Indoor environment
+  - https://w3id.org/peh/GR-987e04d431
 - id: https://w3id.org/peh/GR-cdf93fe2f1
   unique_name: Indoor cleaning habits and products
   name: Indoor cleaning habits and products
@@ -837,7 +837,7 @@ groupings:
   sort_order: 26
   abstract: false
   parent_grouping_id_list:
-  - Indoor environment
+  - https://w3id.org/peh/GR-987e04d431
 - id: https://w3id.org/peh/GR-987e04d431
   unique_name: Indoor environment
   name: Indoor environment
@@ -846,7 +846,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-0874e28bdb
   unique_name: Indoor ventilation
   name: Indoor ventilation
@@ -855,7 +855,7 @@ groupings:
   sort_order: 25
   abstract: false
   parent_grouping_id_list:
-  - Indoor environment
+  - https://w3id.org/peh/GR-987e04d431
 - id: https://w3id.org/peh/GR-cf29dc5f14
   unique_name: Inflammation and immunity
   name: Inflammation and immunity
@@ -865,7 +865,7 @@ groupings:
   sort_order: 422
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-559f0cd4bf
   unique_name: Injury, hospitalisation and surgery
   name: Injury, hospitalisation and surgery
@@ -875,7 +875,7 @@ groupings:
   sort_order: 456
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-33834903f8
   unique_name: Kidney function
   name: Kidney function
@@ -885,7 +885,7 @@ groupings:
   sort_order: 2008
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-0ca1be759e
   unique_name: Kindfiche
   name: Kindfiche
@@ -895,7 +895,7 @@ groupings:
   sort_order: 423
   abstract: false
   parent_grouping_id_list:
-  - Health outcome
+  - https://w3id.org/peh/GR-80c40b7492
 - id: https://w3id.org/peh/GR-0bb1df4e9b
   unique_name: Kitchen garden
   name: Kitchen garden
@@ -909,7 +909,7 @@ groupings:
   sort_order: 29
   abstract: false
   parent_grouping_id_list:
-  - Outdoor environment
+  - https://w3id.org/peh/GR-f7b6a94431
 - id: https://w3id.org/peh/GR-59f38bd8ad
   unique_name: Lab markers for cardiometabolic health and metabolic diseases
   name: Lab markers for cardiometabolic health and metabolic diseases
@@ -920,7 +920,7 @@ groupings:
   sort_order: 421
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-e8af4df90b
   unique_name: Liver function
   name: Liver function
@@ -929,7 +929,7 @@ groupings:
   sort_order: 2003
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-e693753ccd
   unique_name: Local and/or own chicken eggs
   name: Local and/or own chicken eggs
@@ -940,7 +940,7 @@ groupings:
   sort_order: 44
   abstract: false
   parent_grouping_id_list:
-  - Local food
+  - https://w3id.org/peh/GR-fe39bb9245
 - id: https://w3id.org/peh/GR-6272f4a828
   unique_name: 'Local and/or own food consumption and frequency '
   name: 'Local and/or own food consumption and frequency '
@@ -955,7 +955,7 @@ groupings:
   sort_order: 42
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-14e003031b
   unique_name: Local and/or own kitchen garden food
   name: Local and/or own kitchen garden food
@@ -965,7 +965,7 @@ groupings:
   sort_order: 43
   abstract: false
   parent_grouping_id_list:
-  - Local food
+  - https://w3id.org/peh/GR-fe39bb9245
 - id: https://w3id.org/peh/GR-fe39bb9245
   unique_name: Local food
   name: Local food
@@ -974,7 +974,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Nutricion and diet
+  - https://w3id.org/peh/GR-95bc8ff099
 - id: https://w3id.org/peh/GR-dc31500d28
   unique_name: Medication during pregnancy
   name: Medication during pregnancy
@@ -983,7 +983,7 @@ groupings:
   sort_order: 471
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-b2c72bc4fb
   unique_name: Menstruation
   name: Menstruation
@@ -992,7 +992,7 @@ groupings:
   sort_order: 500
   abstract: false
   parent_grouping_id_list:
-  - Reproductive health
+  - https://w3id.org/peh/GR-b948a35381
 - id: https://w3id.org/peh/GR-7bab96833d
   unique_name: Mental health
   name: Mental health
@@ -1001,7 +1001,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Health data
+  - https://w3id.org/peh/GR-6bb62a0954
 - id: https://w3id.org/peh/GR-44bf0535b4
   unique_name: Metabolic hormones
   name: Metabolic hormones
@@ -1011,7 +1011,7 @@ groupings:
   sort_order: 2011
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-1f07be2e65
   unique_name: Metals
   name: Metals
@@ -1020,7 +1020,7 @@ groupings:
   sort_order: 1013
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-9d3c62efa8
   unique_name: Musks
   name: Musks
@@ -1029,7 +1029,7 @@ groupings:
   sort_order: 1018
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-2ca98ee0ed
   unique_name: Mycotoxins
   name: Mycotoxins
@@ -1038,7 +1038,7 @@ groupings:
   sort_order: 10001
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-0845dec952
   unique_name: Nail care
   name: Nail care
@@ -1047,7 +1047,7 @@ groupings:
   sort_order: 58
   abstract: false
   parent_grouping_id_list:
-  - Personal care and hygiene
+  - https://w3id.org/peh/GR-2695e59bf6
 - id: https://w3id.org/peh/GR-a841fe1f14
   unique_name: Nationality, origin and language
   name: Nationality, origin and language
@@ -1057,7 +1057,7 @@ groupings:
   sort_order: 10
   abstract: false
   parent_grouping_id_list:
-  - Socio-economic status
+  - https://w3id.org/peh/GR-2ea8e050ad
 - id: https://w3id.org/peh/GR-201b64e7f5
   unique_name: Neuro Computer tests
   name: Neuro Computer tests
@@ -1067,7 +1067,7 @@ groupings:
   sort_order: 491
   abstract: false
   parent_grouping_id_list:
-  - Neuro-cognition
+  - https://w3id.org/peh/GR-9a46317451
 - id: https://w3id.org/peh/GR-e15602c48e
   unique_name: Neuro child communication
   name: Neuro child communication
@@ -1078,7 +1078,7 @@ groupings:
   sort_order: 603
   abstract: false
   parent_grouping_id_list:
-  - Neuro development
+  - https://w3id.org/peh/GR-643f7eeb31
 - id: https://w3id.org/peh/GR-f71e21ba7c
   unique_name: Neuro child fine motor skills
   name: Neuro child fine motor skills
@@ -1089,7 +1089,7 @@ groupings:
   sort_order: 605
   abstract: false
   parent_grouping_id_list:
-  - Neuro development
+  - https://w3id.org/peh/GR-643f7eeb31
 - id: https://w3id.org/peh/GR-b6e206acf3
   unique_name: Neuro child general
   name: Neuro child general
@@ -1100,7 +1100,7 @@ groupings:
   sort_order: 602
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-92e75f26ae
   unique_name: Neuro child gross motor skills
   name: Neuro child gross motor skills
@@ -1111,7 +1111,7 @@ groupings:
   sort_order: 604
   abstract: false
   parent_grouping_id_list:
-  - Neuro development
+  - https://w3id.org/peh/GR-643f7eeb31
 - id: https://w3id.org/peh/GR-4a6cf2cc62
   unique_name: Neuro child personal-social
   name: Neuro child personal-social
@@ -1122,7 +1122,7 @@ groupings:
   sort_order: 607
   abstract: false
   parent_grouping_id_list:
-  - Neuro development
+  - https://w3id.org/peh/GR-643f7eeb31
 - id: https://w3id.org/peh/GR-8fafb915e2
   unique_name: Neuro child problem solving
   name: Neuro child problem solving
@@ -1133,7 +1133,7 @@ groupings:
   sort_order: 606
   abstract: false
   parent_grouping_id_list:
-  - Neuro development
+  - https://w3id.org/peh/GR-643f7eeb31
 - id: https://w3id.org/peh/GR-643f7eeb31
   unique_name: Neuro development
   name: Neuro development
@@ -1142,7 +1142,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-484b74a97c
   unique_name: Neuro general
   name: Neuro general
@@ -1151,7 +1151,7 @@ groupings:
   sort_order: 490
   abstract: false
   parent_grouping_id_list:
-  - Neuro-cognition
+  - https://w3id.org/peh/GR-9a46317451
 - id: https://w3id.org/peh/GR-9a46317451
   unique_name: Neuro-cognition
   name: Neuro-cognition
@@ -1160,7 +1160,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Health data
+  - https://w3id.org/peh/GR-6bb62a0954
 - id: https://w3id.org/peh/GR-dfa7a51e61
   unique_name: Nicotine
   name: Nicotine
@@ -1169,7 +1169,7 @@ groupings:
   sort_order: 2017
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-95bc8ff099
   unique_name: Nutricion and diet
   name: Nutricion and diet
@@ -1178,7 +1178,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-858ca4d2c7
   unique_name: Occupation and income
   name: Occupation and income
@@ -1187,7 +1187,7 @@ groupings:
   sort_order: 13
   abstract: false
   parent_grouping_id_list:
-  - Socio-economic status
+  - https://w3id.org/peh/GR-2ea8e050ad
 - id: https://w3id.org/peh/GR-36a7c544ce
   unique_name: 'Occupational exposure '
   name: 'Occupational exposure '
@@ -1199,7 +1199,7 @@ groupings:
   sort_order: 64
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-380d90ca91
   unique_name: Organochlorine compounds (OCs)
   name: Organochlorine compounds (OCs)
@@ -1208,7 +1208,7 @@ groupings:
   sort_order: 10003
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-f7b6a94431
   unique_name: Outdoor environment
   name: Outdoor environment
@@ -1217,7 +1217,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-4b2963b3f4
   unique_name: Outdoor general
   name: Outdoor general
@@ -1230,7 +1230,7 @@ groupings:
   sort_order: 28
   abstract: false
   parent_grouping_id_list:
-  - Outdoor environment
+  - https://w3id.org/peh/GR-f7b6a94431
 - id: https://w3id.org/peh/GR-657e02f8d3
   unique_name: Parabens
   name: Parabens
@@ -1239,7 +1239,7 @@ groupings:
   sort_order: 1017
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-03ba8a7a2d
   unique_name: Passive smoking
   name: Passive smoking
@@ -1249,7 +1249,7 @@ groupings:
   sort_order: 62
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure to smoking
+  - https://w3id.org/peh/GR-077f854251
 - id: https://w3id.org/peh/GR-eb9bde9374
   unique_name: Per-/poly-fluorinated compounds (PFASs)
   name: Per-/poly-fluorinated compounds (PFASs)
@@ -1258,7 +1258,7 @@ groupings:
   sort_order: 1003
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-36a74162b0
   unique_name: Perception on exposure
   name: Perception on exposure
@@ -1267,7 +1267,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-a3753268b4
   unique_name: Perception on exposure due to climate and changing climate
   name: Perception on exposure due to climate and changing climate
@@ -1276,7 +1276,7 @@ groupings:
   sort_order: 299
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-7af2db5eec
   unique_name: 'Perception on exposure due to food '
   name: 'Perception on exposure due to food '
@@ -1287,7 +1287,7 @@ groupings:
   sort_order: 300
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-5788fb4746
   unique_name: 'Perception on exposure due to indoor environment '
   name: 'Perception on exposure due to indoor environment '
@@ -1298,7 +1298,7 @@ groupings:
   sort_order: 301
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-8662d4e102
   unique_name: 'Perception on exposure exposure due to agriculture '
   name: 'Perception on exposure exposure due to agriculture '
@@ -1308,7 +1308,7 @@ groupings:
   sort_order: 303
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-51c485c74c
   unique_name: 'Perception on exposure exposure due to air pollution, noise pollution,
     odor nuisance '
@@ -1321,7 +1321,7 @@ groupings:
   sort_order: 306
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-5a3e8db16f
   unique_name: 'Perception on exposure exposure due to build environment '
   name: 'Perception on exposure exposure due to build environment '
@@ -1331,7 +1331,7 @@ groupings:
   sort_order: 305
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-73e22266fe
   unique_name: 'Perception on exposure exposure due to green area '
   name: 'Perception on exposure exposure due to green area '
@@ -1344,7 +1344,7 @@ groupings:
   sort_order: 307
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-7102cde717
   unique_name: 'Perception on exposure exposure due to industry '
   name: 'Perception on exposure exposure due to industry '
@@ -1355,7 +1355,7 @@ groupings:
   sort_order: 304
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-1391f782bc
   unique_name: 'Perception on exposure exposure due to traffic and combustion '
   name: 'Perception on exposure exposure due to traffic and combustion '
@@ -1365,7 +1365,7 @@ groupings:
   sort_order: 302
   abstract: false
   parent_grouping_id_list:
-  - Perception on exposure
+  - https://w3id.org/peh/GR-36a74162b0
 - id: https://w3id.org/peh/GR-a9ad5b6324
   unique_name: Persistent Organic Pollutants (POPs)
   name: Persistent Organic Pollutants (POPs)
@@ -1374,7 +1374,7 @@ groupings:
   sort_order: 1014
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-184daff620
   unique_name: Personal
   name: Personal
@@ -1390,7 +1390,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-2695e59bf6
   unique_name: Personal care and hygiene
   name: Personal care and hygiene
@@ -1399,7 +1399,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-863ac4affa
   unique_name: Personal exposure
   name: Personal exposure
@@ -1408,7 +1408,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-f07dc5f70f
   unique_name: 'Personal exposure to products '
   name: 'Personal exposure to products '
@@ -1422,7 +1422,7 @@ groupings:
   sort_order: 63
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-077f854251
   unique_name: Personal exposure to smoking
   name: Personal exposure to smoking
@@ -1431,7 +1431,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Personal exposure
+  - https://w3id.org/peh/GR-863ac4affa
 - id: https://w3id.org/peh/GR-2433db5a32
   unique_name: Personal information
   name: Personal information
@@ -1440,7 +1440,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Personal
+  - https://w3id.org/peh/GR-184daff620
 - id: https://w3id.org/peh/GR-fde83c2922
   unique_name: Personal parameters
   name: Personal parameters
@@ -1452,7 +1452,7 @@ groupings:
   sort_order: 2
   abstract: false
   parent_grouping_id_list:
-  - Personal information
+  - https://w3id.org/peh/GR-2433db5a32
 - id: https://w3id.org/peh/GR-1e6810eaf1
   unique_name: Pesticides
   name: Pesticides
@@ -1461,7 +1461,7 @@ groupings:
   sort_order: 1008
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-c17b129b98
   unique_name: Pesticides (carbamate)
   name: Pesticides (carbamate)
@@ -1470,7 +1470,7 @@ groupings:
   sort_order: 1009.5
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-a2a74eb34a
   unique_name: Pesticides (pyrethroids)
   name: Pesticides (pyrethroids)
@@ -1479,7 +1479,7 @@ groupings:
   sort_order: 1009
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-92dcfaba61
   unique_name: Phthalates
   name: Phthalates
@@ -1489,7 +1489,7 @@ groupings:
   sort_order: 1001
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-21f39d861d
   unique_name: Physical health
   name: Physical health
@@ -1498,7 +1498,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Health data
+  - https://w3id.org/peh/GR-6bb62a0954
 - id: https://w3id.org/peh/GR-df3c7e4e62
   unique_name: Physical health during birth
   name: Physical health during birth
@@ -1508,7 +1508,7 @@ groupings:
   sort_order: 473
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-d615ebc916
   unique_name: Physical health during breast feeding
   name: Physical health during breast feeding
@@ -1518,7 +1518,7 @@ groupings:
   sort_order: 474
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-51ea0e8b5a
   unique_name: Physical health during pregnancy
   name: Physical health during pregnancy
@@ -1528,7 +1528,7 @@ groupings:
   sort_order: 470
   abstract: false
   parent_grouping_id_list:
-  - Physical health
+  - https://w3id.org/peh/GR-21f39d861d
 - id: https://w3id.org/peh/GR-c65dfb227c
   unique_name: Polycyclic Aromatic Hydrocarbons (PAHs)
   name: Polycyclic Aromatic Hydrocarbons (PAHs)
@@ -1537,7 +1537,7 @@ groupings:
   sort_order: 1006
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-bba95533b6
   unique_name: Practical
   name: Practical
@@ -1554,7 +1554,7 @@ groupings:
   sort_order: 503
   abstract: false
   parent_grouping_id_list:
-  - Reproductive health
+  - https://w3id.org/peh/GR-b948a35381
 - id: https://w3id.org/peh/GR-b36a7e1919
   unique_name: Products on skin
   name: Products on skin
@@ -1565,7 +1565,7 @@ groupings:
   sort_order: 54
   abstract: false
   parent_grouping_id_list:
-  - Personal care and hygiene
+  - https://w3id.org/peh/GR-2695e59bf6
 - id: https://w3id.org/peh/GR-5ad234cb2c
   unique_name: Property
   name: Property
@@ -1581,7 +1581,7 @@ groupings:
   sort_order: 4001
   abstract: false
   parent_grouping_id_list:
-  - General property
+  - https://w3id.org/peh/GR-369bbc0408
 - id: https://w3id.org/peh/GR-a6331f608c
   unique_name: Property of soil
   name: Property of soil
@@ -1590,7 +1590,7 @@ groupings:
   sort_order: 4000
   abstract: false
   parent_grouping_id_list:
-  - General property
+  - https://w3id.org/peh/GR-369bbc0408
 - id: https://w3id.org/peh/GR-38ba7d0f5d
   unique_name: Property of urine
   name: Property of urine
@@ -1599,7 +1599,7 @@ groupings:
   sort_order: 4002
   abstract: false
   parent_grouping_id_list:
-  - General property
+  - https://w3id.org/peh/GR-369bbc0408
 - id: https://w3id.org/peh/GR-2ea3776e70
   unique_name: Puberty
   name: Puberty
@@ -1608,7 +1608,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Child development
+  - https://w3id.org/peh/GR-d8003b419a
 - id: https://w3id.org/peh/GR-5c0a7d900f
   unique_name: Questionnaire and sample information
   name: Questionnaire and sample information
@@ -1617,7 +1617,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Practical
+  - https://w3id.org/peh/GR-bba95533b6
 - id: https://w3id.org/peh/GR-70b45da5ef
   unique_name: Questionnaire information
   name: Questionnaire information
@@ -1628,7 +1628,7 @@ groupings:
   sort_order: 800
   abstract: false
   parent_grouping_id_list:
-  - Questionnaire and sample information
+  - https://w3id.org/peh/GR-5c0a7d900f
 - id: https://w3id.org/peh/GR-ad09b801bc
   unique_name: Recent illness or medication information
   name: Recent illness or medication information
@@ -1638,7 +1638,7 @@ groupings:
   sort_order: 401
   abstract: false
   parent_grouping_id_list:
-  - Recent personal exposure
+  - https://w3id.org/peh/GR-a7a6adf90d
 - id: https://w3id.org/peh/GR-55721ed87e
   unique_name: Recent nutricion information
   name: Recent nutricion information
@@ -1648,7 +1648,7 @@ groupings:
   sort_order: 402
   abstract: false
   parent_grouping_id_list:
-  - Recent personal exposure
+  - https://w3id.org/peh/GR-a7a6adf90d
 - id: https://w3id.org/peh/GR-a7a6adf90d
   unique_name: Recent personal exposure
   name: Recent personal exposure
@@ -1657,8 +1657,8 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Recent personal exposure
-  - Exposure
+  - https://w3id.org/peh/GR-a7a6adf90d
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-c76c9a15ef
   unique_name: Regional characteristics
   name: Regional characteristics
@@ -1670,7 +1670,7 @@ groupings:
   sort_order: 20
   abstract: false
   parent_grouping_id_list:
-  - Residence
+  - https://w3id.org/peh/GR-6804f318fb
 - id: https://w3id.org/peh/GR-9669099652
   unique_name: Reproductive and metabolic health outcomes
   name: Reproductive and metabolic health outcomes
@@ -1680,7 +1680,7 @@ groupings:
   sort_order: 2020
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-3f8f7641f8
   unique_name: Reproductive breast feeding
   name: Reproductive breast feeding
@@ -1690,7 +1690,7 @@ groupings:
   sort_order: 504
   abstract: false
   parent_grouping_id_list:
-  - Reproductive health
+  - https://w3id.org/peh/GR-b948a35381
 - id: https://w3id.org/peh/GR-b948a35381
   unique_name: Reproductive health
   name: Reproductive health
@@ -1699,7 +1699,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Health data
+  - https://w3id.org/peh/GR-6bb62a0954
 - id: https://w3id.org/peh/GR-6804f318fb
   unique_name: Residence
   name: Residence
@@ -1708,7 +1708,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-d61f81dd29
   unique_name: Sample information
   name: Sample information
@@ -1717,7 +1717,7 @@ groupings:
   sort_order: 0.2
   abstract: false
   parent_grouping_id_list:
-  - Questionnaire and sample information
+  - https://w3id.org/peh/GR-5c0a7d900f
 - id: https://w3id.org/peh/GR-7080c53d29
   unique_name: Sample information on blood sampling
   name: Sample information on blood sampling
@@ -1727,7 +1727,7 @@ groupings:
   sort_order: 802
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-93790be6c6
   unique_name: Sample information on cordblood collection
   name: Sample information on cordblood collection
@@ -1737,7 +1737,7 @@ groupings:
   sort_order: 803
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-ec9d2ad286
   unique_name: Sample information on hair collection
   name: Sample information on hair collection
@@ -1747,7 +1747,7 @@ groupings:
   sort_order: 805
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-a29ccb594f
   unique_name: Sample information on mother milk collection
   name: Sample information on mother milk collection
@@ -1756,7 +1756,7 @@ groupings:
   sort_order: 804
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-5c9a576646
   unique_name: Sample information on urine collection
   name: Sample information on urine collection
@@ -1767,7 +1767,7 @@ groupings:
   sort_order: 806
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-3be4bd87ed
   unique_name: Sedentary behaviour
   name: Sedentary behaviour
@@ -1776,7 +1776,7 @@ groupings:
   sort_order: 52
   abstract: false
   parent_grouping_id_list:
-  - General physical activity
+  - https://w3id.org/peh/GR-68060310d8
 - id: https://w3id.org/peh/GR-6634ebde61
   unique_name: Sleeping habits and problems
   name: Sleeping habits and problems
@@ -1785,7 +1785,7 @@ groupings:
   sort_order: 483
   abstract: false
   parent_grouping_id_list:
-  - Mental health
+  - https://w3id.org/peh/GR-7bab96833d
 - id: https://w3id.org/peh/GR-759f43093f
   unique_name: Smoking
   name: Smoking
@@ -1795,7 +1795,7 @@ groupings:
   sort_order: 53
   abstract: false
   parent_grouping_id_list:
-  - Personal behavior
+  - https://w3id.org/peh/GR-356af2f9e6
 - id: https://w3id.org/peh/GR-2ea8e050ad
   unique_name: Socio-economic status
   name: Socio-economic status
@@ -1804,7 +1804,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Exposure
+  - https://w3id.org/peh/GR-df10da7c5d
 - id: https://w3id.org/peh/GR-a35f7f48c3
   unique_name: Steroid/Sex hormones
   name: Steroid/Sex hormones
@@ -1814,7 +1814,7 @@ groupings:
   sort_order: 2009
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-3d4f94d1f8
   unique_name: Stress hormones
   name: Stress hormones
@@ -1824,7 +1824,7 @@ groupings:
   sort_order: 2012
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-a459f90e63
   unique_name: Stress perception
   name: Stress perception
@@ -1833,7 +1833,7 @@ groupings:
   sort_order: 481
   abstract: false
   parent_grouping_id_list:
-  - Mental health
+  - https://w3id.org/peh/GR-7bab96833d
 - id: https://w3id.org/peh/GR-0d004972e6
   unique_name: Stress perception during pregnancy
   name: Stress perception during pregnancy
@@ -1842,7 +1842,7 @@ groupings:
   sort_order: 482
   abstract: false
   parent_grouping_id_list:
-  - Mental health
+  - https://w3id.org/peh/GR-7bab96833d
 - id: https://w3id.org/peh/GR-28433488ff
   unique_name: Study agreement
   name: Study agreement
@@ -1851,7 +1851,7 @@ groupings:
   sort_order: 1
   abstract: false
   parent_grouping_id_list:
-  - Study information
+  - https://w3id.org/peh/GR-ba7f3e58a8
 - id: https://w3id.org/peh/GR-135b789752
   unique_name: Study design
   name: Study design
@@ -1860,8 +1860,8 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Practical
-  - Study design
+  - https://w3id.org/peh/GR-bba95533b6
+  - https://w3id.org/peh/GR-135b789752
 - id: https://w3id.org/peh/GR-ba7f3e58a8
   unique_name: Study information
   name: Study information
@@ -1870,7 +1870,7 @@ groupings:
   sort_order: 0.1
   abstract: true
   parent_grouping_id_list:
-  - Practical
+  - https://w3id.org/peh/GR-bba95533b6
 - id: https://w3id.org/peh/GR-1005304604
   unique_name: Thyroid hormones
   name: Thyroid hormones
@@ -1880,7 +1880,7 @@ groupings:
   sort_order: 2010
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-f7992bb6cb
   unique_name: Tooth care
   name: Tooth care
@@ -1890,7 +1890,7 @@ groupings:
   sort_order: 56
   abstract: false
   parent_grouping_id_list:
-  - Personal care and hygiene
+  - https://w3id.org/peh/GR-2695e59bf6
 - id: https://w3id.org/peh/GR-a7d5ef83e7
   unique_name: Triclosan
   name: Triclosan
@@ -1899,7 +1899,7 @@ groupings:
   sort_order: 1019
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-54a0d62f71
   unique_name: UV-filters (benzophenones)
   name: UV-filters (benzophenones)
@@ -1908,7 +1908,7 @@ groupings:
   sort_order: 1012
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-a97de2b004
   unique_name: UV-screens
   name: UV-screens
@@ -1917,7 +1917,7 @@ groupings:
   sort_order: 1021
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-abce00b701
   unique_name: Urinary dilution
   name: Urinary dilution
@@ -1927,7 +1927,7 @@ groupings:
   sort_order: 2004
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-50b0a35bce
   unique_name: Ventilation systems
   name: Ventilation systems
@@ -1937,7 +1937,7 @@ groupings:
   sort_order: 22
   abstract: false
   parent_grouping_id_list:
-  - Housing
+  - https://w3id.org/peh/GR-6214b425ac
 - id: https://w3id.org/peh/GR-cf51badbc1
   unique_name: Vitamins
   name: Vitamins
@@ -1947,7 +1947,7 @@ groupings:
   sort_order: 2001
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
 - id: https://w3id.org/peh/GR-0af6168214
   unique_name: Volatile Organic Compounds (VOCs)
   name: Volatile Organic Compounds (VOCs)
@@ -1956,7 +1956,7 @@ groupings:
   sort_order: 1015
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-061d63c521
   unique_name: Volatile anaesthetics
   name: Volatile anaesthetics
@@ -1965,7 +1965,7 @@ groupings:
   sort_order: 1023
   abstract: false
   parent_grouping_id_list:
-  - Exposure marker
+  - https://w3id.org/peh/GR-13e812a346
 - id: https://w3id.org/peh/GR-21311a1968
   unique_name: characteristics of non human samples
   name: characteristics of non human samples
@@ -1976,7 +1976,7 @@ groupings:
   sort_order: 100000
   abstract: false
   parent_grouping_id_list:
-  - Sample information
+  - https://w3id.org/peh/GR-d61f81dd29
 - id: https://w3id.org/peh/GR-62ccc169b8
   unique_name: cytokines
   name: cytokines
@@ -1985,4 +1985,4 @@ groupings:
   sort_order: 2018
   abstract: false
   parent_grouping_id_list:
-  - Effect marker
+  - https://w3id.org/peh/GR-bfaa5b388a
