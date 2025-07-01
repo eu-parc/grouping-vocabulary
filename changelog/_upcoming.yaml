@@ -3,6 +3,407 @@ release_date: "XXXX-XX-XX"
 maintainer: "gertjan.bisschop@vito.be"
 
 changes:
-- label: unit
+- unique_name: Acrylamide
   action: added
-  
+- unique_name: Alcohol and drugs
+  action: added
+- unique_name: Alkaloid
+  action: added
+- unique_name: Anilines and MOCA
+  action: added
+- unique_name: Animals
+  action: added
+- unique_name: Aprotic solvents
+  action: added
+- unique_name: Asthma and allergy
+  action: added
+- unique_name: Baby feeding
+  action: added
+- unique_name: Bathing and showering
+  action: added
+- unique_name: Biological food
+  action: added
+- unique_name: Bisphenols
+  action: added
+- unique_name: Blood Lipids and lipid transport proteins
+  action: added
+- unique_name: Blood and blood composition
+  action: added
+- unique_name: Building characteristics
+  action: added
+- unique_name: Cardiometabolic health and metabolic diseases
+  action: added
+- unique_name: Care products
+  action: added
+- unique_name: Cell ageing
+  action: added
+- unique_name: Cell growth and cancer markers
+  action: added
+- unique_name: Chicken
+  action: added
+- unique_name: Child CLB data
+  action: added
+- unique_name: 'Child at birth '
+  action: added
+- unique_name: Child development
+  action: added
+- unique_name: Child exposure
+  action: added
+- unique_name: Child puberty
+  action: added
+- unique_name: Commuting
+  action: added
+- unique_name: Contact information
+  action: added
+- unique_name: DINCH
+  action: added
+- unique_name: Diisocyanates
+  action: added
+- unique_name: Dioxins
+  action: added
+- unique_name: Domestic animals
+  action: added
+- unique_name: 'Early life exposure '
+  action: added
+- unique_name: Education and degree
+  action: added
+- unique_name: Effect
+  action: added
+- unique_name: Effect marker
+  action: added
+- unique_name: Environmental exposure
+  action: added
+- unique_name: Environmental exposure due to agriculture
+  action: added
+- unique_name: 'Environmental exposure due to air pollution, noise pollution, odor
+    nuisance '
+  action: added
+- unique_name: 'Environmental exposure due to build environment '
+  action: added
+- unique_name: Environmental exposure due to climate and changing climate
+  action: added
+- unique_name: Environmental exposure due to green area
+  action: added
+- unique_name: Environmental exposure due to industry
+  action: added
+- unique_name: 'Environmental exposure due to traffic and combustion '
+  action: added
+- unique_name: Environmental indoor exposure
+  action: added
+- unique_name: Epigenetic markers
+  action: added
+- unique_name: Essential elements
+  action: added
+- unique_name: Exposure
+  action: added
+- unique_name: Exposure during pregnancy
+  action: added
+- unique_name: Exposure marker
+  action: added
+- unique_name: Family composition
+  action: added
+- unique_name: Family history of disease
+  action: added
+- unique_name: Fertility
+  action: added
+- unique_name: Flame retardants
+  action: added
+- unique_name: Food supplements
+  action: added
+- unique_name: Food supplements during pregnancy
+  action: added
+- unique_name: Furans
+  action: added
+- unique_name: 'General child behavior '
+  action: added
+- unique_name: General food
+  action: added
+- unique_name: General food consumption
+  action: added
+- unique_name: General food frequency
+  action: added
+- unique_name: General indoor environment
+  action: added
+- unique_name: General medication and vaccination
+  action: added
+- unique_name: General mental health
+  action: added
+- unique_name: General perception on exposure
+  action: added
+- unique_name: General physical activity
+  action: added
+- unique_name: 'General physical activity '
+  action: added
+- unique_name: General physical health
+  action: added
+- unique_name: General property
+  action: added
+- unique_name: General sample information
+  action: added
+- unique_name: Genotoxicity
+  action: added
+- unique_name: Glycol ethers
+  action: added
+- unique_name: Ground and well water
+  action: added
+- unique_name: Hair care
+  action: added
+- unique_name: Halogens
+  action: added
+- unique_name: Health
+  action: added
+- unique_name: Health data
+  action: added
+- unique_name: Health outcome
+  action: added
+- unique_name: Herbicides
+  action: added
+- unique_name: Hexamoll DINCH
+  action: added
+- unique_name: Historical and prevalent chronic diseases or conditions
+  action: added
+- unique_name: Hormone use
+  action: added
+- unique_name: Housing
+  action: added
+- unique_name: Housing problems
+  action: added
+- unique_name: Indoor Energy, combustion behaviour and engines
+  action: added
+- unique_name: Indoor cleaning habits and products
+  action: added
+- unique_name: Indoor environment
+  action: added
+- unique_name: Indoor ventilation
+  action: added
+- unique_name: Inflammation and immunity
+  action: added
+- unique_name: Injury, hospitalisation and surgery
+  action: added
+- unique_name: Kidney function
+  action: added
+- unique_name: Kindfiche
+  action: added
+- unique_name: Kitchen garden
+  action: added
+- unique_name: Lab markers for cardiometabolic health and metabolic diseases
+  action: added
+- unique_name: Liver function
+  action: added
+- unique_name: Local and/or own chicken eggs
+  action: added
+- unique_name: 'Local and/or own food consumption and frequency '
+  action: added
+- unique_name: Local and/or own kitchen garden food
+  action: added
+- unique_name: Local food
+  action: added
+- unique_name: Medication during pregnancy
+  action: added
+- unique_name: Menstruation
+  action: added
+- unique_name: Mental health
+  action: added
+- unique_name: Metabolic hormones
+  action: added
+- unique_name: Metals
+  action: added
+- unique_name: Musks
+  action: added
+- unique_name: Mycotoxins
+  action: added
+- unique_name: Nail care
+  action: added
+- unique_name: Nationality, origin and language
+  action: added
+- unique_name: Neuro Computer tests
+  action: added
+- unique_name: Neuro child communication
+  action: added
+- unique_name: Neuro child fine motor skills
+  action: added
+- unique_name: Neuro child general
+  action: added
+- unique_name: Neuro child gross motor skills
+  action: added
+- unique_name: Neuro child personal-social
+  action: added
+- unique_name: Neuro child problem solving
+  action: added
+- unique_name: Neuro development
+  action: added
+- unique_name: Neuro general
+  action: added
+- unique_name: Neuro-cognition
+  action: added
+- unique_name: Nicotine
+  action: added
+- unique_name: Nutricion and diet
+  action: added
+- unique_name: Occupation and income
+  action: added
+- unique_name: 'Occupational exposure '
+  action: added
+- unique_name: Organochlorine compounds (OCs)
+  action: added
+- unique_name: Outdoor environment
+  action: added
+- unique_name: Outdoor general
+  action: added
+- unique_name: Parabens
+  action: added
+- unique_name: Passive smoking
+  action: added
+- unique_name: Per-/poly-fluorinated compounds (PFASs)
+  action: added
+- unique_name: Perception on exposure
+  action: added
+- unique_name: Perception on exposure due to climate and changing climate
+  action: added
+- unique_name: 'Perception on exposure due to food '
+  action: added
+- unique_name: 'Perception on exposure due to indoor environment '
+  action: added
+- unique_name: 'Perception on exposure exposure due to agriculture '
+  action: added
+- unique_name: 'Perception on exposure exposure due to air pollution, noise pollution,
+    odor nuisance '
+  action: added
+- unique_name: 'Perception on exposure exposure due to build environment '
+  action: added
+- unique_name: 'Perception on exposure exposure due to green area '
+  action: added
+- unique_name: 'Perception on exposure exposure due to industry '
+  action: added
+- unique_name: 'Perception on exposure exposure due to traffic and combustion '
+  action: added
+- unique_name: Persistent Organic Pollutants (POPs)
+  action: added
+- unique_name: Personal
+  action: added
+- unique_name: Personal behavior
+  action: added
+- unique_name: Personal care and hygiene
+  action: added
+- unique_name: Personal exposure
+  action: added
+- unique_name: 'Personal exposure to products '
+  action: added
+- unique_name: Personal exposure to smoking
+  action: added
+- unique_name: Personal information
+  action: added
+- unique_name: Personal parameters
+  action: added
+- unique_name: Pesticides
+  action: added
+- unique_name: Pesticides (carbamate)
+  action: added
+- unique_name: Pesticides (pyrethroids)
+  action: added
+- unique_name: Phthalates
+  action: added
+- unique_name: Physical health
+  action: added
+- unique_name: Physical health during birth
+  action: added
+- unique_name: Physical health during breast feeding
+  action: added
+- unique_name: Physical health during pregnancy
+  action: added
+- unique_name: Polycyclic Aromatic Hydrocarbons (PAHs)
+  action: added
+- unique_name: Practical
+  action: added
+- unique_name: Pregnancy
+  action: added
+- unique_name: Products on skin
+  action: added
+- unique_name: Property
+  action: added
+- unique_name: Property of blood
+  action: added
+- unique_name: Property of soil
+  action: added
+- unique_name: Property of urine
+  action: added
+- unique_name: Puberty
+  action: added
+- unique_name: Questionnaire and sample information
+  action: added
+- unique_name: Questionnaire information
+  action: added
+- unique_name: Recent illness or medication information
+  action: added
+- unique_name: Recent nutricion information
+  action: added
+- unique_name: Recent personal exposure
+  action: added
+- unique_name: Regional characteristics
+  action: added
+- unique_name: Reproductive and metabolic health outcomes
+  action: added
+- unique_name: Reproductive breast feeding
+  action: added
+- unique_name: Reproductive health
+  action: added
+- unique_name: Residence
+  action: added
+- unique_name: Sample information
+  action: added
+- unique_name: Sample information on blood sampling
+  action: added
+- unique_name: Sample information on cordblood collection
+  action: added
+- unique_name: Sample information on hair collection
+  action: added
+- unique_name: Sample information on mother milk collection
+  action: added
+- unique_name: Sample information on urine collection
+  action: added
+- unique_name: Sedentary behaviour
+  action: added
+- unique_name: Sleeping habits and problems
+  action: added
+- unique_name: Smoking
+  action: added
+- unique_name: Socio-economic status
+  action: added
+- unique_name: Steroid/Sex hormones
+  action: added
+- unique_name: Stress hormones
+  action: added
+- unique_name: Stress perception
+  action: added
+- unique_name: Stress perception during pregnancy
+  action: added
+- unique_name: Study agreement
+  action: added
+- unique_name: Study design
+  action: added
+- unique_name: Study information
+  action: added
+- unique_name: Thyroid hormones
+  action: added
+- unique_name: Tooth care
+  action: added
+- unique_name: Triclosan
+  action: added
+- unique_name: UV-filters (benzophenones)
+  action: added
+- unique_name: UV-screens
+  action: added
+- unique_name: Urinary dilution
+  action: added
+- unique_name: Ventilation systems
+  action: added
+- unique_name: Vitamins
+  action: added
+- unique_name: Volatile Organic Compounds (VOCs)
+  action: added
+- unique_name: Volatile anaesthetics
+  action: added
+- unique_name: characteristics of non human samples
+  action: added
+- unique_name: cytokines
+  action: added
