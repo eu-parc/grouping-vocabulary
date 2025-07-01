@@ -15,10 +15,10 @@ jobs:
         uses: eu-parc/voc2skosmos-workflow/.github/workflows/yml2skos.yml@main
         with:
             ref: ${{ github.ref }}
-            namespace: http://www.placeholder.com/
+            namespace: https://w3id.org/peh/terms/
             voc_uri: https://w3id.org/peh/groupings
-            linkml_schema: schema/resource.linkml.yml
-            data: data/data.yml
+            linkml_schema: https://raw.githubusercontent.com/eu-parc/parco-hbm/main/linkml/schema/peh.yaml
+            data: data/data.yaml
             entity_name: Grouping
         secrets:
             token: ${{ secrets.GITHUB_TOKEN }}
