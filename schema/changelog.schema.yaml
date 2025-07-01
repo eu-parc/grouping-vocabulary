@@ -25,7 +25,7 @@ properties:
         - unique_name
         - action
       properties:
-        label:
+        unique_name:
           type: string
         action:
           type: string
