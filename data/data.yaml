@@ -1316,8 +1316,8 @@ groupings:
     nuisance '
   description: 'This category is about your perception, concerns and opinions about
     exposure to air pollution, noise and odor nuisance '
-  ui_label: 'Perception on exposure exposure due to air pollution, noise pollution, odor
-    nuisance '
+  ui_label: 'Perception on exposure exposure due to air pollution, noise pollution,
+    odor nuisance '
   sort_order: 306
   abstract: false
   parent_grouping_id_list:
